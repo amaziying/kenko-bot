@@ -2,10 +2,16 @@
 
 const Q = require('q');
 const request = require('request').defaults({ encoding: null });
+const vision = require('@google-cloud/vision')();
+
+/*
+For Local dev:
+
 const vision = require('@google-cloud/vision')({
     projectId: 'temporal-clover-122123',
     keyFilename: './config/vision-api-key.json'
 });
+*/
 
 const cache = {}
 
