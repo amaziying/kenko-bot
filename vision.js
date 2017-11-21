@@ -2,18 +2,31 @@
 
 const Q = require('q');
 const request = require('request').defaults({ encoding: null });
-const vision = require('@google-cloud/vision')();
+// const vision = require('@google-cloud/vision')();
 
-/*
-For Local dev:
 
+//For Local dev:
 const vision = require('@google-cloud/vision')({
     projectId: 'temporal-clover-122123',
     keyFilename: './config/vision-api-key.json'
 });
-*/
 
-const cache = {}
+const food_words = require('./DATA/food_words.json');
+const wordSet = new Set(food_words.words);
+
+const cache = {};
+
+
+function isFood(word) {
+    return word.split(' ')
+        .map((w) => w.trim().toLowerCase())
+        .filter((w) => w.length)
+        .some((w) => wordSet.has(w));
+}
+
+function filterAnnotations(annotations) {
+    return annotations.filter((annotation) => isFood(annotation.description));
+}
 
 function labelDetection(imageUri) {
     var deferred = Q.defer();
@@ -34,7 +47,7 @@ function labelDetection(imageUri) {
                     .labelDetection({ content: data })
                     .then(function (response) {
                         if (response && response.length) {
-                            cache[imageUri] = response[0].labelAnnotations
+                            cache[imageUri] = filterAnnotations(response[0].labelAnnotations)
                             deferred.resolve(cache[imageUri]);
                         } else {
                             deferred.reject('Empty response');
