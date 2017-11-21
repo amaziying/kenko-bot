@@ -1,1 +1,4 @@
-(food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g)
+DROP TABLE IF EXISTS GI_Data;
+
+CREATE TABLE GI_Data(food_id VARCHAR(225), food_name VARCHAR(225), glucose_gi INT, bread_gi INT, serving_size_mL INT, serving_size_g INT);
+

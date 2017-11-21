@@ -129,8 +129,8 @@
 129;Chickpea flour bread, made from extruded;67;96
 130;Corn tortilla, made from white corn, Diego's brand;49;70
 131;Bread, flax, made from flax meal & wheat flour (Canada)9;67;96
-132;Bürgen Fruit loaf (Tip Top Bakeries,;44;63
-133;Bürgen Fruit and Muesli bread;53;76
+132;Burgen Fruit loaf (Tip Top Bakeries,;44;63
+133;Burgen Fruit and Muesli bread;53;76
 134;Continental fruit loaf, wheat bread;47;67
 135;Fruit and cinnamon bread (Finest, UK);71;102
 136;Fruit and Spice Loaf, thick sliced;54;77
@@ -156,8 +156,8 @@
 156;Rye bread (80% rye flour + 20% oat ß-glucan;66;94
 157;Rye bread, 69% whole-grain rye flour;78;112
 158;Blackbread, Riga (Berzin's Specialty Bakery,;76;109
-159;Bürgen Dark/Swiss rye (Tip Top Bakeries, Australia);55;79
-160;Bürgen Rye (Tip Top Bakeries, Australia);51;73
+159;Burgen Dark/Swiss rye (Tip Top Bakeries, Australia);55;79
+160;Burgen Rye (Tip Top Bakeries, Australia);51;73
 161;Country Grain Organic Rye;53;76
 162;Roggenbrot, Vogel's (Stevns & Co, Sydney,;59;84
 163;Rye Hi-Soy with Linseed;55;79
@@ -245,14 +245,14 @@
 245;Wholemeal flour, stoneground (Waitrose, UK);66;94
 246;Bakers Delight Hi Fibre Lo GI white bread;52;74
 247;Bakers Delight Wholemeal Country Grain bread;53;76
-248;Bürgen Mixed Grain;34;49
-249;Bürgen Mixed Grain;45;64
-250;Bürgen Mixed Grain;52;74
-251;Bürgen Oat Bran & Honey Loaf with Barley;31;44
-252;Bürgen Oatbran & Honey bread;49;70
-253;Bürgen Pumpkin Seed bread, containing 6%;49;70
-254;Bürgen Soy-Lin, kibbled soy (8%) and linseed (8%);36;51
-255;Bürgen Wholmeal & Seeds;39;56
+248;Burgen Mixed Grain;34;49
+249;Burgen Mixed Grain;45;64
+250;Burgen Mixed Grain;52;74
+251;Burgen Oat Bran & Honey Loaf with Barley;31;44
+252;Burgen Oatbran & Honey bread;49;70
+253;Burgen Pumpkin Seed bread, containing 6%;49;70
+254;Burgen Soy-Lin, kibbled soy (8%) and linseed (8%);36;51
+255;Burgen Wholmeal & Seeds;39;56
 256;Crusty malted wheat bread (Finest, UK);52;74
 257;English Muffin bread (Natural Ovens, USA);77;109
 258;English Muffin, Whole Grain Multigrain,;45;64
@@ -353,9 +353,9 @@
 353;Mini Wheats (Sainsbury's, UK);59;84
 354;Mini Wheats, blackcurrant (Kellogg's, Australia);72;103
 355;Alpen original muesli, made from steamed rolled oats;55;79
-356;Bürgen Fruit & Muesli;51;73
-357;Bürgen Soy-Lin Muesli;51;73
-358;Bürgen Rye Muesli;41;59
+356;Burgen Fruit & Muesli;51;73
+357;Burgen Soy-Lin Muesli;51;73
+358;Burgen Rye Muesli;41;59
 359;Muesli (Value, UK);64;92
 360;Muesli (Canada)8;66;94
 361;Muesli (Healthy Eating, UK);86;123
@@ -635,9 +635,9 @@
 635;Grany en-cas Abricot (LU, France);55;79
 636;Grany en-cas Fruits des bois (LU, France);50;71
 637;Grany Rush Apricot (LU, Netherlands);62;89
-638;Györi Édes Jó reggelt! Müzlivel és gyümölccsel (2002);45;64
-639;Györi Édes Jó reggelt! Müzlivel és gyümölccsel (2003);49;70
-640;Györi Édes Jó reggelt! Müzlivel és gyümölccsel (2004);47;67
+638;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2002);45;64
+639;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2003);49;70
+640;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2004);47;67
 641;Highland Oatmeal (Westons Biscuits, Australia);55;79
 642;Jo Reggelt Fruits and Figs (LU, Hungary);41;59
 643;Jubilee Nuts and Honey (LU, Russia) (2002);44;62

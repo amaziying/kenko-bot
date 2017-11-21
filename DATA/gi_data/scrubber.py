@@ -21,6 +21,7 @@ def scrubMe(fname):
     scrubbedData_stage_4_name = 'ADA_GI_out_stage_4.txt'
     scrubbedData_stage_5_name = 'ADA_GI_out_stage_5.txt'
     scrubbedData_stage_6_name = 'ADA_GI_out_stage_6.txt'
+    sql_file_name = 'ADA_GI_sql_insertion.txt'
     scrubbedData_serving_size = 'scrubbedData_serving_size.txt' # ID + Serving size
     groupData_name = 'ADA_GI_group_data.txt'
 
@@ -35,7 +36,31 @@ def scrubMe(fname):
         scrubbedData_stage_5_name, 
         scrubbedData_serving_size, 
         scrubbedData_stage_6_name)
+    convert_to_sql(scrubbedData_stage_6_name, sql_file_name)
     get_group_ranges(scrubbedData_stage_0_name, groupData_name)
+
+def convert_to_sql(in_file_name, out_file_name):
+    target_table_name = "GI_Data";
+    in_data = open(in_file_name, 'r')
+    out_data = open(out_file_name,'w')
+    row = []
+    out_data.write("DROP TABLE IF EXISTS "+target_table_name+";\n")
+    out_data.write("CREATE TABLE GI_Data(food_id VARCHAR(225), food_name VARCHAR(225), glucose_gi INT, bread_gi INT, serving_size_mL INT, serving_size_g INT);\n")
+    for line in in_data:
+        row = line.split(DELIMITER)
+        food_id = "\""+row[0]+"\""
+        food_name = "\""+row[1]+"\""
+        glucose_gi = row[2]
+        bread_gi = row[3]
+        serving_size_mL = row[4].strip()
+        if len(serving_size_mL) == 0:
+            serving_size_mL = "NULL"
+        serving_size_g = row[5].strip()
+        if len(serving_size_g) == 0:
+            serving_size_g = "NULL"
+        out_data.write("INSERT INTO "+target_table_name+" (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES (" + food_id + ", " + food_name + ", " + glucose_gi  + ", " + bread_gi + ", " + serving_size_mL + ", " + serving_size_g+");\n")
+    in_data.close()
+    out_data.close()
 
 def extractUniqueIDs(in_file_name, out_file_name):
     # This will only consider food items that 
