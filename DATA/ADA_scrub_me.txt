@@ -3348,7 +3348,7 @@ Sweet Potato
 1816 Sweet potato (Ipomoea batatas) (Australia) 44 63 Normal, 7 Potato26, 3h 82 150 25 11
 1817 Sweet potato, kumara (New Zealand) 77+-12 110 Normal, 9 Glucose, 2h 29 150 25 19
 1818 Tannia (Xanthosoma sagittifolium) (Fiji) 63+-5 90 Normal, 8 Glucose, 2h 5 150 36 23
-Taro
+PACIFIC ISLANDERS Taro
 1819 Taro (Colocasia esculenta) peeled, boiled (Australia) 54 77 Normal, 7 Potato26, 3h 82 150 8 4
 1820 Taro, peeled, boiled (New Zealand) 56+-12 80 Normal, 9 Glucose, 2h 29 150 8 4
 1821 Yam, peeled, boiled (New Zealand) 35+-5 50 Normal, 14 Glucose, 2h 29 150 36 13
@@ -3437,7 +3437,7 @@ reheated for 1 min
 1867 Tannia, peeled, boiled 30 min, uncrushed (whole), 50+-8 71+-11 Normal, 6 Bread, 2h 115 150 56 28
 refrigerated, reheated for 1 min
 mean of three foods 54 76 150 56 30
-Yam
+SOUTH AMERICAN Yams
 1868 Coco yam (Xanthosoma spp.), peeled, cubed, 61+-5 87 Normal, 10 Glucose, 2h 81 150 46 28
 boiled 30 min (Jamaica)
 1869 Lucea yam (Dioscorea rotunda), peeled, cubed, 74+-7 106 Normal, 10 Glucose, 2h 81 150 27 20
