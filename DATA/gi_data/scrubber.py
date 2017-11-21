@@ -5,7 +5,13 @@ from collections import OrderedDict
 
 DELIMITER = ";"
 
-# Notes: There 
+# Notes: Rows must have
+    # Food ID
+    # Food Name
+    # glucose_gi
+    # bread_gi
+    # serving size (mL or g)
+# Food items that do not have these fields are removed
 
 def scrubMe(fname):
     scrubbedData_stage_0_name = fname
@@ -14,6 +20,8 @@ def scrubMe(fname):
     scrubbedData_stage_3_name = 'ADA_GI_out_stage_3.txt'
     scrubbedData_stage_4_name = 'ADA_GI_out_stage_4.txt'
     scrubbedData_stage_5_name = 'ADA_GI_out_stage_5.txt'
+    scrubbedData_stage_6_name = 'ADA_GI_out_stage_6.txt'
+    scrubbedData_serving_size = 'scrubbedData_serving_size.txt' # ID + Serving size
     groupData_name = 'ADA_GI_group_data.txt'
 
     extractUniqueIDs(scrubbedData_stage_0_name, scrubbedData_stage_1_name)
@@ -21,6 +29,12 @@ def scrubMe(fname):
     concat_name_GI(scrubbedData_stage_2_name, scrubbedData_stage_3_name)
     seperateIDs(scrubbedData_stage_3_name, scrubbedData_stage_4_name)
     clean_names(scrubbedData_stage_4_name, scrubbedData_stage_5_name)
+
+    extract_serving_size(scrubbedData_stage_1_name, scrubbedData_serving_size)
+    combine_serving_size(
+        scrubbedData_stage_5_name, 
+        scrubbedData_serving_size, 
+        scrubbedData_stage_6_name)
     get_group_ranges(scrubbedData_stage_0_name, groupData_name)
 
 def extractUniqueIDs(in_file_name, out_file_name):
@@ -35,6 +49,65 @@ def extractUniqueIDs(in_file_name, out_file_name):
                 uniqueIDs[currFoodID] = 1
                 out_data.write(line)
     in_data.close()
+    out_data.close()
+
+def extract_serving_size(in_file_name, out_file_name):
+    # Split on Subjects (type & number)
+    # This will only consider food items that are type NORMAL**
+    in_data = open(in_file_name,'r')
+    out_data = open(out_file_name,'w')
+    remove_last_two_units_regex = '\s[\d]+\s[\d]+$'
+    find_ml_regex = '[\d]+[\s]*mL$'
+    find_g_regex = '[\d]+$'
+    id_regex = '^\d{1,4}\s'
+
+    for line in in_data:
+        last_two_match = re.findall(remove_last_two_units_regex, line)
+        if last_two_match:
+            line = line.replace(last_two_match[0], '')
+
+        
+        is_ml = re.findall(find_ml_regex, line)
+        is_g = re.findall(find_g_regex, line)
+        id_match = re.findall(id_regex, line)
+
+        if id_match:
+            food_id = id_match[0]
+            if is_ml:
+                line = food_id.strip() + DELIMITER + is_ml[0].strip() + DELIMITER + '' + "\n"
+                out_data.write(line)
+            elif is_g:
+                line = food_id.strip() + DELIMITER + '' + DELIMITER + is_g[0].strip() +" g" + "\n"
+                out_data.write(line)
+        
+        id_match = re.findall(id_regex, line)
+        if id_match:
+            food_id = id_match[0]
+        
+    in_data.close()
+    out_data.close()
+
+def combine_serving_size(in_file_name_1, serving_size_data, out_file_name):
+    in_data = open(in_file_name_1,'r')
+    in_data_ss = open(serving_size_data,'r')
+    out_data = open(out_file_name,'w')
+    ss_dict = {}
+    currSplit = []
+    for line in in_data_ss:
+        currSplit = line.split(DELIMITER)
+        food_id = currSplit[0].strip()
+        food_ml = currSplit[1].replace("mL", '').strip()
+        food_g = currSplit[2].replace("g", '').strip()
+        if food_id not in ss_dict:
+            ss_dict[food_id] = [food_ml, food_g]
+    
+    for line in in_data:
+        food_id = line.split(DELIMITER)[0]
+        if food_id in ss_dict:
+            out_data.write(line.rstrip() + DELIMITER + DELIMITER.join(ss_dict[food_id]) + "\n")
+
+    in_data.close()
+    in_data_ss.close()
     out_data.close()
 
 def extract_name_GI(in_file_name, out_file_name):
