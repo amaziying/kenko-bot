@@ -54,21 +54,26 @@ def concat_name_GI(in_file_name, out_file_name):
     # Split on Subjects (type & number)
     in_data = open(in_file_name,'r')
     out_data = open(out_file_name,'w')
+    GI_regex = '\s[0-9\+\-]*$'
     for line in in_data:
         line = line.rstrip()
-        GI_subs_match = re.findall('\s[0-9\+\-]*$', line)[0] # This is the bread GI, TODO: Add this in
+        GI_subs_match = re.findall(GI_regex, line)[0] # This is the bread GI
         if GI_subs_match:
             if '+-' in GI_subs_match:
-                GI = GI_subs_match.split('+-')[0]
+                GI_bread = GI_subs_match.split('+-')[0]
             else:
-                GI = GI_subs_match
+                GI_bread = GI_subs_match
         out = line.split(GI_subs_match)[0]
         if out:
-            GI_subs_match = re.findall('\s[0-9\+\-]*$', out)[0] # This is the glucose GI, TODO: Add this in
+            GI_subs_match = re.findall(GI_regex, out)[0] # This is the glucose GI, TODO: Add this in
             if GI_subs_match:
+                if '+-' in GI_subs_match:
+                    GI_glucose = GI_subs_match.split('+-')[0]
+                else:
+                    GI_glucose = GI_subs_match
                 name = line.split(GI_subs_match)[0]
                 if name:
-                    out = name + DELIMITER + GI.strip() + "\n"
+                    out = name + DELIMITER + GI_bread.strip() + DELIMITER + GI_glucose.strip() + "\n"
                     out_data.write(out)
     in_data.close()
     out_data.close()
@@ -92,16 +97,17 @@ def clean_names(in_file_name, out_file_name):
     # Split on Subjects (type & number)
     in_data = open(in_file_name,'r')
     out_data = open(out_file_name,'w')
+    name_regex = '(?<=;)(.*)(?=;[\d]+;)'
     for line in in_data:
         
-        name_match = re.findall('(?<=;)(.*)(?=;)', line)
+        name_match = re.findall(name_regex, line)
         if name_match:
             name = name_match[0]
             new_name = name.strip()
             line = line.replace(name, new_name)
 
         # Trim trailing commas
-        name_match = re.findall('(?<=;)(.*)(?=;)', line)
+        name_match = re.findall(name_regex, line)
         if name_match:
             name = name_match[0]
             if name[-1] == ",":
