@@ -1,0 +1,1 @@
+(food_id, food_name, glucose_gi, bread_gi)

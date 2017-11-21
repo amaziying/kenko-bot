@@ -9,12 +9,12 @@ DELIMITER = ";"
 
 def scrubMe(fname):
     scrubbedData_stage_0_name = fname
-    scrubbedData_stage_1_name = 'output_stage_1.txt'
-    scrubbedData_stage_2_name = 'output_stage_2.txt'
-    scrubbedData_stage_3_name = 'output_stage_3.txt'
-    scrubbedData_stage_4_name = 'output_stage_4.txt'
-    scrubbedData_stage_5_name = 'output_stage_5.txt'
-    groupData_name = 'group_data.txt'
+    scrubbedData_stage_1_name = 'ADA_GI_out_stage_1.txt'
+    scrubbedData_stage_2_name = 'ADA_GI_out_stage_2.txt'
+    scrubbedData_stage_3_name = 'ADA_GI_out_stage_3.txt'
+    scrubbedData_stage_4_name = 'ADA_GI_out_stage_4.txt'
+    scrubbedData_stage_5_name = 'ADA_GI_out_stage_5.txt'
+    groupData_name = 'ADA_GI_group_data.txt'
 
     extractUniqueIDs(scrubbedData_stage_0_name, scrubbedData_stage_1_name)
     extract_name_GI(scrubbedData_stage_1_name, scrubbedData_stage_2_name)
@@ -73,7 +73,7 @@ def concat_name_GI(in_file_name, out_file_name):
                     GI_glucose = GI_subs_match
                 name = line.split(GI_subs_match)[0]
                 if name:
-                    out = name + DELIMITER + GI_bread.strip() + DELIMITER + GI_glucose.strip() + "\n"
+                    out = name + DELIMITER + GI_glucose.strip() + DELIMITER + GI_bread.strip() + "\n"
                     out_data.write(out)
     in_data.close()
     out_data.close()
@@ -83,10 +83,10 @@ def seperateIDs(in_file_name, out_file_name):
     in_data = open(in_file_name,'r')
     out_data = open(out_file_name,'w')
     for line in in_data:
-        currFoodID_match = re.match('^\d{1,4}', line)
+        currFoodID_match = re.match('^\d{1,4}\s', line)
         if currFoodID_match:
             currFoodID = currFoodID_match.group(0)
-            newCurrFoodID = currFoodID+DELIMITER
+            newCurrFoodID = currFoodID.strip()+DELIMITER
             line = line.replace(currFoodID, newCurrFoodID)
         out = line
         out_data.write(out)
@@ -178,4 +178,4 @@ def get_group_ranges(in_file_name, out_file_name):
     in_data.close()
     out_data.close()
 if __name__ == "__main__":
-    scrubMe("ADA_scrub_me.txt")
+    scrubMe("ADA_GI_raw.txt")
