@@ -1,0 +1,1840 @@
+1;Banana cake, made with sugar;47;67;;60
+2;Banana cake, made without sugar;55;79;;60
+3;Carrot cake, prepared with coconut flour (Philippines);36;52;;60
+4;Chocolate cake made from packet mix;38;54;;111
+5;Cupcake, strawberry-iced (Squiggles;73;104;;38
+6;Lamingtons (sponge dipped in chocolate and;87;124;;50
+7;Pound cake 0% (Bimbo S.A de C.V, Mexico);38;54;;60
+8;Raspberry Coffee cake, President's Choice;50;71;;60
+9;Vanilla cake, made from packet mix with;42;60;;111
+10;Apple Berry crumble, President's Choice;41;59;;165
+11;Bavarian (mousse filling on biscuit base), Chocolate;31;44;;75
+12;Danish, Apple & Peach, light (Sara Lee Bakery;50;72;;50
+13;Doughnut, wheat dough, deep-fried (China);75;107;;50
+14;Apple muffin, made with rolled oats and sugar;44;63;;60
+15;Apple muffin, made rolled oats and without sugar;48;69;;60
+16;Apple Blueberry muffin (Sara Lee Bakery, Australia);49;70;;60
+17;Apple, oat, sultana muffin (Australia);54;78;;50
+18;Apricot, coconut and honey muffin (Australia);60;86;;50
+19;Banana, oat and honey muffin (Australia);65;93;;50
+20;Blueberry muffin (Sara Lee Bakery, Australia);50;72;;60
+21;Blueberry (Wild) 10-Grain muffin, President's Choice;57;81;;70
+22;Chocolate butterscotch muffin (Australia);53;75;;50
+23;Chocolate chip muffin (Sara Lee Bakery, Australia);52;74;;60
+24;Cranberry & Orange Soy muffin, President's Choice;48;69;;70
+25;Double chocolate muffin (Sara Lee Bakery, Australia);46;66;;60
+26;Muffin, plain, made from wheat flour (Spain);46;66;;50
+27;Muffin, reduced-fat, low-calorie, made from;37;53;;50
+28;Raisin Bran Flax muffin, President's Choice;52;74;;70
+29;Raspberry Pomegranate muffin, President's Choice;58;82;;70
+30;Pancakes, homemade (Fiji);66;95;;80
+31;Pancakes, prepared from shake mix;67;96;;80
+32;Pancakes, prepared from wheat flour (China);80;114;;80
+33;Pancakes, buckwheat, gluten-free, made from packet;102;146;;80
+34;Pancakes, gluten-free, made from packet mix;61;87;;80
+35;Pancakes, prepared with coconut flour (Philippines);46;65;;80
+36;Pan de sal (sweet bread roll), containing coconut;61;87;;80
+37;Pastry, puff (Pampas, Australia);56;80;;50
+38;Pikelets, Golden brand (Tip Top Bakeries;85;121;;40
+39;Scones, plain, made from packet mix;92;131;;25
+40;Aussie Bodies Start the Day UHT, Choc Banana;24;34;250;
+41;Aussie Bodies Start the Day UHT, Chocolate;26;37;250;
+42;Beer, Toohey's New (Tooheys Pty Limited, Australia)7;66;94;250;
+43;Chocolate Daydream shake, fructose (Revival;33;47;250;
+44;Chocolate Daydream shake, sucralose (Revival;25;36;250;
+45;Coca Cola, soft drink (Coca Cola Amatil, Sydney;53;76;250;
+46;Coca Cola, soft drink (Coca Cola Bottling;63;90;250;
+47;Cordial, orange, reconstituted (Berri Ltd;66;94;250;
+48;Fanta, orange soft drink;68;97;250;
+49;Fruit punch (USA);67;95;250;
+50;Lemonade, Scheweppes, lemon soft drink;54;77;250;
+51;Mars Active Energy Drink, flavored milk;46;66;250;
+52;Orange Delight Cocktail with pulp;44;63;250;
+53;Ribena blackcurrant fruit syrup, reconsituted;52;74;250;
+54;Rice milk drink, low-fat, Australia's Own Natural;92;131;250;
+55;Vitasoy rice milk, low-fat, calcium enriched;79;113;250;
+56;Slim Fast French Vanilla ready-to-drink shake;37;53;250;
+57;Smoothie, banana (Australia);30;43;250;
+58;Smoothie, banana and strawberry, V8 Splash;44;63;250;
+59;Smoothie, mango (Australia);32;46;250;
+60;Smoothie, raspberry (Con Agra Inc, Omaha, USA);33;48;250;
+61;Smoothie drink, soy, banana;30;43;250;
+62;Smoothie drink, soy, chocolate hazelnut;34;49;250;
+63;Solo, lemon squash, soft drink;58;83;250;
+64;Soy Beverage, Chocolate flavored, President's;40;57;250;
+65;Soy Beverage, Original flavored, President's Choice;15;22;250;
+66;Soy Beverage, Vanilla flavored, President's Choice;28;40;250;
+67;Up & Go, cocoa malt flavor (soy milk, rice cereal liquid;43;61;250;
+68;Up & Go, original malt flavor (soy milk, rice cereal;46;66;250;
+69;V8 Splash, tropical blend fruit drink;47;67;250;
+70;Xpress, chocolate (soy bean, cereal and;39;56;250;
+71;V8 100% vegetable juice;43;61;250;
+72;Yakult, fermented milk drink with;46;66;65;
+73;Yakult Light, fermented milk drink with;36;51;65;
+74;Gatorade (Spring Valley Beverages Pty;78;111;250;
+75;Isostar (Novartis Consumer Health;70;100;250;
+76;Sustagen Sport (Mead Johnson;43;61;250;
+77;Thorpedo Advanced Hydration for Kids, all flavors;11;16;250;
+78;Thorpedo Ultra Low GI Energy Water, all flavors;16;23;250;
+79;Aussie Bodies Trim Protein Shake, Chocolate;39;56;250;
+80;Aussie Bodies Trim Protein Shake, French Vanilla;41;59;250;
+81;Build-Up nutrient-fortified drink, vanilla;41;59;250;
+82;Cinch Café Latte weight management powder;27;39;250;
+83;Cinch Chocolate weight management powder;16;23;250;
+84;Cinch Vanilla weight management powder;22;31;250;
+85;Complete Hot Chocolate mix made with;51;73;250;
+86;Hi-Pro energy drink mix, vanilla, containing soy;36;51;250;
+87;Malted milk powder in full-fat milk (Nestlé, Australia);45;64;250;
+88;Milo (Nestlé, Australia) dissolved in water;55;79;250;
+89;Milo (Nestlé, Auckland, New Zealand);52;74;250;
+90;Milo (Nestlé, Australia) dissolved in full-fat milk;35;50;250;
+91;Milo (Nestlé, New Zealand) dissolved in full-fat milk;36;51;250;
+92;Milo Breakfast Smoothie powder prepared;39;56;250;
+93;Nutrimeal, meal replacement drink, Dutch Chocolate;26;37;250;
+94;Nutrimeal, meal replacement drink, all flavors;20;37;250;
+95;Proform Hi-protein powder, neutral flavor;45;64;250;
+96;Proform Hi-protein powder, vanilla flavor, prepared;42;60;250;
+97;Quik, chocolate (Nestlé, Australia), made with water;53;76;;250
+98;Quik, chocolate (Nestlé, Australia), prepared with;41;59;;250
+99;Quik, strawberry (Nestlé, Australia), prepared;64;92;;250
+100;Quik, strawberry (Nestlé, Australia), prepared;35;50;;250
+101;Bagel, white (USA)9;69;99;;70
+102;Traditional French baguette (prepared with wheat;57;82;;30
+103;Whole Grain Baguette, President's Choice Blue;73;104;;30
+104;French baguette with chocolate spread (France);72;101;;70
+105;French baguette with butter and strawberry jam;62;89;;70
+106;Pain au lait (Pasquier, France);63;90;;60
+107;80% scalded intact kernels (20% white wheat flour);34;48;;30
+108;80% intact kernels (20% white wheat flour);40;57;;30
+109;Barley kernel bread, 50% kibbled barley (Australia);48;69;;30
+110;Sunflower and barley bread (Riga bakeries;57;81;;30
+111;Sunflower and barley bread (Vogel's, UK);70;100;;30
+112;Wholemeal barley flour (80%) bread;67;95;;30
+113;Wholemeal barley bread, flat, thin, soft (50% regular;50;71;;30
+114;Wholemeal barley bread, flat, thin, soft (20% regular;43;61;;30
+115;Barley flour bread, made from 50% wheat flour and;74;106;;30
+116;Barley flour bread, made from 80% wheat flour and;70;100;;30
+117;Whole grain barley flour bread, made from 50% barley;85;122;;30
+118;Barley bread, 70% high-amylose barley flour and;49;71;;30
+119;Barley bread;70;99;;30
+120;Wholemeal barley flour bread (used as reference food;70;100;;30
+121;Wholemeal barley flour bread with;53;76;;30
+122;Wholemeal barley flour bread with lactic acid9;66;94;;30
+123;Wholemeal barley flour bread with calcium lactate9;59;84;;30
+124;Wholemeal barley flour bread with sodium propionate9;65;93;;30
+125;Wholemeal barley flour bread with higher dose;57;82;;30
+126;Buckwheat bread, 50% dehusked buckwheat;47;67;;30
+127;Buckwheat bread (China);67;95;;30
+128;Chickpea flour bread, made from Amethyst-type;55;78;;30
+129;Chickpea flour bread, made from extruded;67;96;;30
+130;Corn tortilla, made from white corn, Diego's brand;49;70;;50
+131;Bread, flax, made from flax meal & wheat flour (Canada)9;67;96;;30
+132;Burgen Fruit loaf (Tip Top Bakeries;44;63;;30
+133;Burgen Fruit and Muesli bread;53;76;;30
+134;Continental fruit loaf, wheat bread;47;67;;30
+135;Fruit and cinnamon bread (Finest, UK);71;102;;30
+136;Fruit and Spice Loaf, thick sliced;54;77;;30
+137;Fruit loaf, sliced (UK);57;82;;30
+138;Happiness (cinnamon, raisin, pecan bread);63;89;;30
+139;Muesli bread, made from packet mix in;54;77;;30
+140;Whole-wheat bread with dried fruit (China);47;67;;30
+141;Gluten-free multigrain bread (Country Life Bakery;79;113;;30
+142;Gluten-free white bread (Country Life Bakery, Autralia);40;57;;30
+143;Gluten-free buckwheat bread, made with buckwheat;72;103;;30
+144;100% Whole wheat Gigantico Burger Buns;62;89;;30
+145;100% Whole wheat Gigantico Hot Dog Rolls;62;89;;30
+146;Coarse oat kernel bread, 80% intact oat kernels;65;93;;30
+147;50% oat bran (Australia);44;63;;30
+148;45% oat bran and;50;72;;30
+149;Oatmeal batch bread (UK);62;89;;30
+150;Rice bread, low-amylose Calrose rice;72;103;;30
+151;Rice bread, high-amylose Doongara rice;61;88;;30
+152;Rye bread (50% rye flour +;50;72;;30
+153;Wheat and rye bread (75% wheat flour +;40;57;;30
+154;Coarse rye kernel bread, 80% intact kernels and;41;58;;30
+155;Whole-kernel rye bread, 60% whole rye kernels;57;82;;30
+156;Rye bread (80% rye flour + 20% oat ß-glucan;66;94;;30
+157;Rye bread, 69% whole-grain rye flour;78;112;;30
+158;Blackbread, Riga (Berzin's Specialty Bakery;76;109;;30
+159;Burgen Dark/Swiss rye (Tip Top Bakeries, Australia);55;79;;30
+160;Burgen Rye (Tip Top Bakeries, Australia);51;73;;30
+161;Country Grain Organic Rye;53;76;;30
+162;Roggenbrot, Vogel's (Stevns & Co, Sydney;59;84;;30
+163;Rye Hi-Soy with Linseed;55;79;;30
+164;Schinkenbrot, Riga (Berzin's Specialty Bakery;86;123;;30
+165;Sourdough rye (Australia);48;69;;30
+166;Coarse wheat kernel bread, 80% intact kernels;52;74;;30
+167;White spelt wheat bread (Belgium);65;93;;30
+168;White spelt wheat bread (Slovenia)12;74;105;;30
+169;Wholemeal spelt wheat bread (Slovenia)12;63;91;;30
+170;Scalded spelt wheat kernel bread (Slovenia)12;67;96;;30
+171;Spelt multigrain bread (Pav's bakery, Australia);54;77;;30
+172;White flour (UK);59;84;;30
+173;White flour (Canada);69;99;;30
+174;White flour, Sunblest (Tip Top Bakeries, Australia);70;100;;30
+175;White flour (Sainsbury's, UK);70;100;;30
+176;White flour bread;71;102;;30
+177;White flour (Pepperidge Farm, Norwalk, CT, USA);71;102;;30
+178;White flour (South Africa);71;101;;30
+179;White flour (Italy);72;103;;30
+180;White flour (Hovis, UK);73;104;;30
+181;White flour (Nishin Shokuhin, Japan);75;108;;30
+182;White flour (Vodova veka Penam, Olomouc;75;107;;30
+183;White flour (Hovis, UK);75;107;;30
+184;White flour (Hovis Classic, British Bakeries Ltd, UK)9;87;124;;30
+185;White flour (China);88;126;;30
+186;White flour (Italy);89;128;;30
+187;White flour, homemade (UK)9;89;127;;30
+188;White bread, toasted (Hovis, UK);50;72;;30
+189;White bread, fresh, toasted (British Bakeries Ltd, UK)9;63;90;;30
+190;White bread, homemade, fresh, toasted (UK)9;66;95;;30
+191;White bread, frozen and defrosted9;75;107;;30
+192;White bread, homemade, frozen and defrosted (UK)9;62;88;;30
+193;White wheat bread, frozen, defrosted and toasted9;64;92;;30
+194;White bread, homemade, frozen, defrosted9;54;77;;30
+195;Wonder, enriched white bread;71;101;;30
+196;Wonder, enriched white bread;72;103;;30
+197;Wonder, enriched white bread;77;110;;30
+198;White bread + acarbose (200 mg) (Mexico);50;70;;30
+199;White bread, enriched with 9 g lupin kernel fiber;74;106;;30
+200;White bread with added wheatgerm and fiber (UK);59;84;;30
+201;White bread + 15 g psyllium fiber (Plantago psyllium);65;93;;30
+202;White bread, enriched with 12 g Arabinoxylan fiber14;41;59;;30
+203;White bread, enriched with 6 g Arabinoxylan fiber14;56;80;;30
+204;White bread with 3 g Sunfibre, viscosity 1;63;91;;30
+205;White bread with 5 g Sunfibre, viscosity 1;64;92;;30
+206;White bread with 10 g Sunfibre, viscosity 1;68;97;;30
+207;White bread with 15 g Sunfibre, viscosity 1;56;81;;30
+208;White bread with 5 g Sunfibre, viscosity 2;55;78;;30
+213;White bread (100% wheat flour) + 2% pectin;85;121;;30
+214;White bread (100% wheat flour) + 5% fruit fiber;76;109;;30
+215;White bread (80% wheat flour + 20% chickpea flour);79;113;;30
+216;White bread (90% wheat flour + 10% modified corn;78;111;;30
+217;White bread (90% wheat flour + 10% tapicoa starch);77;110;;30
+218;White bread (95% wheat flour + 5% oat bran);74;106;;30
+219;White bread, containing 2% guar gum;66;94;;30
+220;White bread, containing 2% vinegar and 2.5%;79;113;;30
+221;White bread containing Eurylon high-amylose;42;60;;30
+222;White bread eaten with powdered dried;48;68;;30
+223;White bread eaten with vinegar as vinaigrette;45;64;;30
+224;White bread eaten with 18 g white vinegar;63;89;;30
+225;White bread eaten with 23 g white vinegar;73;105;;30
+226;White bread eaten with 28 g white vinegar;54;77;;30
+227;White and wholemeal bread (ratio 1:1), fermented by;54;77;;30
+228;White bread, prepared with a 10 min prove and a;38;54;;30
+229;White bread, prepared with a 30 min prove and a;72;103;;30
+230;White bread, prepared with a 60 min prove and a;86;123;;30
+231;White bread, prepared with a 40 min prove, a second;100;143;;30
+232;Fiber White (Nature's Fresh;77;110;;30
+233;Wonderwhite (Buttercup Bakeries, Australia);80;114;;30
+234;Wholemeal flour (Hovis, UK);68;97;;30
+235;Wholemeal flour (China);69;99;;30
+236;Wholemeal flour (Sainsbury's, UK);71;102;;30
+237;Wholemeal flour (Canada);72;103;;30
+238;Wholemeal flour (Australia);74;106;;30
+239;Wholemeal flour (Hovis, UK);74;106;;30
+240;Wholemeal flour (South Africa);75;107;;30
+241;Wholemeal flour (Tip Top Bakeries, Australia);77;110;;30
+242;Wholemeal flour (Tip Top Bakeries, Australia);78;111;;30
+243;Wholemeal flour (France);85;122;;30
+244;Wholemeal bread, stoneground flour (Bill's Organic;59;85;;30
+245;Wholemeal flour, stoneground (Waitrose, UK);66;94;;30
+246;Bakers Delight Hi Fibre Lo GI white bread;52;74;;30
+247;Bakers Delight Wholemeal Country Grain bread;53;76;;30
+248;Burgen Mixed Grain;34;49;;30
+249;Burgen Mixed Grain;45;64;;30
+250;Burgen Mixed Grain;52;74;;30
+251;Burgen Oat Bran & Honey Loaf with Barley;31;44;;30
+252;Burgen Oatbran & Honey bread;49;70;;30
+253;Burgen Pumpkin Seed bread, containing 6%;49;70;;30
+254;Burgen Soy-Lin, kibbled soy (8%) and linseed (8%);36;51;;30
+255;Burgen Wholmeal & Seeds;39;56;;30
+256;Crusty malted wheat bread (Finest, UK);52;74;;30
+257;English Muffin bread (Natural Ovens, USA);77;109;;30
+258;English Muffin, Whole Grain Multigrain;45;64;;30
+259;Golden Hearth Organic Heavy Wholegrain bread;53;76;;30
+260;Healthy Choice Hearty 7 Grain;55;79;;30
+261;Healthy Choice Hearty 100% Whole Grain;62;89;;30
+262;Helga's Classic Seed Loaf (Quality Bakers;68;97;;30
+263;Helga's Traditional Wholemeal bread;70;100;;30
+264;Hunger Filler, whole grain bread;59;84;;30
+265;Malt loaf, organic (UK);59;84;;30
+266;Molenberg (Goodman Fielder, Auckland;75;107;;30
+267;Multigrain bread (Sainsbury's, UK);80;114;;30
+268;Multigrain batch bread (UK);62;89;;30
+269;9-Grain Multi-Grain (Tip Top Bakeries, Australia);43;61;;30
+270;Multigrain Loaf, spelt wheat flour (Australia);54;77;;30
+271;Multigrain (50% kibbled wheat grain) (Australia);43;61;;30
+272;Multigrain loaf, containing coconut flour (Philippines);60;85;;30
+273;Multiseed bread (UK);54;77;;30
+274;Nutty Natural, whole grain bread;59;85;;30
+275;Performax (Country Life Bakery, Australia);38;55;;30
+276;Ploughman's Wholegrain, original recipe;47;67;;30
+277;Ploughman's Wholemeal, smooth milled;64;91;;30
+278;Seeded bread (UK);49;70;;30
+279;Sourdough wheat bread (Australia);54;77;;30
+280;Sourdough Vienna bread, Bakers Delight;66;94;;30
+281;Soy & Linseed bread (made from packet mix cooked;50;71;;30
+282;Stay Trim, whole grain bread (Natural Ovens, USA);70;101;;30
+283;Tip Top EnerGI white bread;54;77;;30
+284;Tip Top EnerGI white bread;58;83;;30
+285;3 Grain Bread, sprouted grains (Stonemill Bread;55;79;;30
+286;Vogel's Honey & Oats (Stevns & Co, Sydney, Australia);55;79;;30
+287;Vogel's Wonder White 'Low GI' white bread;54;77;;30
+288;Vogel's Wonder White 'Low GI' white bread;59;84;;30
+289;100% Whole Grain bread (Natural Ovens, USA);51;73;;30
+290;White wheat flour flatbread (Sweden);79;113;;30
+291;Wheat bread, Einkorn (Triticum monococcum) wheat;71;102;;30
+292;Wheat bread, Einkorn (Triticum monococcum) wheat;65;93;;30
+293;Wheat bread, Einkorn (Triticum monococcum) wheat;67;95;;30
+294;Lebanese bread, white (Seda Bakery, Sydney, Australia);75;107;;30
+295;Pita bread, white, mini (UK);68;97;;30
+296;Pita bread, wholemeal (UK);56;80;;30
+297;All-Bran (Kellogg's, Pagewood, NSW, Australia)17;30;43;;30
+298;All-Bran (Kellogg's, Battle Creek, MI, USA)11, 14;38;54;;30
+299;All-Bran (Kellogg's Inc., Canada);51;73;;30
+300;All-Bran (Kellogg's, Battle Creek, MI, USA);55;78;;30
+301;All-Bran Fruit 'n Oats (Kellogg's, Australia);41;59;;30
+302;All-Bran Soy 'n fiber (Kellogg's, Australia);33;47;;30
+303;All-Bran Wheat Flakes (Kellogg's, Australia);60;86;;30
+304;Balance (Sainsbury's, UK);74;106;;30
+305;Barley flakes (China);69;99;;30
+312;Bran cereal, high fiber (UK);43;61;;30
+313;Branflakes (Healthy Living, UK);50;72;;30
+314;Bran Flakes, President's Choice Blue Menu;65;93;;30
+315;Bran Flakes (Kellogg's, Australia);74;106;;30
+316;Chocapic, wheat-based flaked cereal (2003);70;100;;30
+317;Chocapic, wheat-based flaked cereal (2003);74;106;;30
+318;Chocapic, wheat-based flaked cereal (2003);84;120;;30
+319;Coco Pops (Kellogg's, Australia);77;110;;30
+320;Coco Pops (Kellogg's, Australia);77;110;;30
+321;Cornflakes (China);74;106;;30
+322;Cornflakes (Kellogg's, Australia);77;110;;30
+323;Cornflakes (China);79;112;;30
+324;Cornflakes (Kellogg's Inc., Canada);80;114;;30
+325;Cornflakes (Kellogg's, UK);93;133;;30
+326;Cornflakes, Crunchy Nut (Kellogg's, Australia);72;103;;30
+327;Corn Pops (Kellogg's, Australia);80;114;;30
+328;Energy Mix, wheat-based flaked cereal;80;114;;30
+329;Fibre First Multi-Bran Cereal, President's Choice;56;79;;30
+330;Froot Loops (Kellogg's, Australia);69;98;;30
+331;Frosties, sugar-coated cornflakes;55;79;;30
+332;Fruit and Fibre (Sainsbury's, UK);61;87;;30
+333;Fruit and Fibre (UK);67;96;;30
+334;Fruit and Fibre (Value, UK);68;97;;30
+335;Fruity-Bix, berry (Sanitarium, New Zealand);113;161;;30
+336;Golden Wheats (Kellogg's, Australia);71;101;;30
+337;Granola Clusters, Original, low fat;63;90;;30
+338;Granola Clusters, Raisin & Almond, low fat;70;100;;30
+339;Grapenuts (Kraft Foods Inc, Port Chester, USA);75;107;;30
+340;Guardian (Kellogg's, Australia);37;53;;30
+341;Healthwise for bowel health (Uncle Toby's;66;94;;30
+342;High-fiber cereal (UK);52;74;;30
+343;Hi-Lite, containing 55% rolled barley grains;54;77;;30
+344;Honey Rice Bubbles (Kellogg's, Australia);77;110;;30
+345;Honey Smacks (Kellogg's, Australia);71;101;;30
+346;Hot cereal, apple & cinnamon (Con Agra Inc, USA);37;53;;30
+347;Hot cereal, unflavored (Con Agra Inc., USA);25;36;;30
+348;Just Right (Kellogg's, Australia);60;86;;30
+349;Just Right Just Grains (Kellogg's, Australia);62;88;;30
+350;Kashi Seven Whole Grain Puffs;65;93;;30
+351;Komplete (Kellogg's, Australia);48;68;;30
+352;Mini Wheats (Kellogg's, Australia);58;83;;30
+353;Mini Wheats (Sainsbury's, UK);59;84;;30
+354;Mini Wheats, blackcurrant (Kellogg's, Australia);72;103;;30
+355;Alpen original muesli, made from steamed rolled oats;55;79;;30
+356;Burgen Fruit & Muesli;51;73;;30
+357;Burgen Soy-Lin Muesli;51;73;;30
+358;Burgen Rye Muesli;41;59;;30
+359;Muesli (Value, UK);64;92;;30
+360;Muesli (Canada)8;66;94;;30
+361;Muesli (Healthy Eating, UK);86;123;;30
+362;Muesli, fruit (UK);67;96;;30
+363;Muesli, fruit and nut (UK);59;84;;30
+364;Muesli, gluten-free with Psyllium;50;72;;30
+365;Muesli, Light, mixed berry & apple flavor;64;91;;30
+366;Muesli, Lite (Sanitarium, New Zealand);54;77;;30
+367;Muesli, Morning Sun Natural Apricot & Almond;49;70;;30
+368;Muesli, Natural (Sanitarium, Australia);40;57;;30
+369;Muesli, Natural (Sanitarium, New Zealand);57;81;;30
+370;Muesli, Natural Style Original Swiss Formula;62;89;;30
+371;Muesli, Naytura Fruit and Nut;48;69;;30
+372;Muesli, Swiss Bircher (Woolworths Limited, Australia);52;74;;30
+373;Muesli, Swiss Formula (Uncle Toby's, Australia);56;80;;30
+374;Muesli, toasted (Purina, Sydney, NSW, Australia);43+4;61;;30
+375;Muesli, toasted, with nuts (Australia);65;93;;30
+376;Muesli, wholewheat (UK);56;80;;30
+377;Muesli, yeast & wheat free (Freedom Foods, Australia);45;63;;30
+378;Vogel's Café Style Fibre-Rich Muesli;48;69;;30
+379;Nutrigrain (Kellogg's, Australia);66;94;;30
+380;15 g Oat bran (containing 2 g ß-glucan), consumed;84;120;;10
+381;30 g Oat bran (containing 4 g ß-glucan), consumed;58;83;;10
+382;30 g Oat bran (containing 4 g ß-glucan), consumed;64;92;;10
+383;45 g Oat bran (containing 6 g ß-glucan), consumed;64;91;;10
+384;Oat 'n Honey Bake (Kellogg's, Australia);77;111;;30
+385;Oats, rolled, uncooked (Lowan's Whole Foods;59;84;;30
+386;Porridge (Uncle Toby's, Australia)17;42;60;;250
+387;Porridge, made from rolled oats cooked for 20 min;49;70;;250
+388;Porridge oats (Freedom Foods, Australia);50;72;;250
+389;Traditional porridge oats;51;73;;250
+390;Porridge, made from steel-cut oats, cooked in water;52;74;;250
+391;Porridge (China);55;79;;250
+392;Traditional Rolled Oats (Woolworths Limited, Australia);57;82;;250
+393;Old-Fashioned Steel Cut Oats, President's Choice;57;82;;250
+394;Porridge (Hubbards, New Zealand);58;82;;250
+395;Porridge (Australia);58;83;;250
+396;Porridge (Value, UK);63;90;;250
+397;Porridge, organic (UK);63;90;;250
+398;Porridge, Scottish (UK);63;90;;250
+399;Multi grain instant oatmeal, Regular and Cinnamon;55;78;;250
+400;Multigrain porridge, containing rolled oats, wheat;55;79;;250
+402;Oat porridge made from thick (1.0 mm);55;78;;250
+403;Oat porridge made from 0.5-0.6 mm thick flakes;76;109;;250
+404;Oat porridge made from roasted thin (0.5 mm);69;99;;250
+405;Oat porridge made from roasted thick (1.0 mm);50;72;;250
+406;Oat porridge made from roasted and steamed thin;80;114;;250
+407;Oat porridge made from steamed thick (1.0 mm);53;76;;250
+408;Instant porridge (China);69;99;;250
+409;Instant oat porridge, cooked in microwave;82;117;;250
+410;Instant oatmeal porridge, made from packet (China);83;119;;250
+411;Instant oat cereal porridge prepared with water (UK);83;119;;250
+412;Pop Tarts, Double Chocolate (Kellogg's, Australia);70;100;;50
+413;Puffed Wheat (Sanitarium, Australia);80;114;;30
+414;Raisin Bran (Kellogg's, USA);61;87;;30
+415;Rice Bran, extruded (Rice Growers Co-Operative Ltd;19;27;;30
+416;Rice Bubbles (Kellogg's, Australia)17;81;116;;30
+417;Rice Bubbles (Kellogg's, Australia);85;121;;30
+418;Rice Bubbles (Kellogg's, Australia);92;132;;30
+419;Rice Bubbles (Kellogg's, Australia);95;136;;30
+420;Shredded Wheat (Canada);67;96;;30
+421;Soy Crunch Multi-Grain Cereal, President's Choice;47;67;;30
+422;Special K (Kellogg's, Australia);54;77;;30
+423;Special K (Kellogg's, USA);69;98;;30
+424;Special K, made from rice (Kellogg's, France);84;120;;30
+425;Soy Tasty (flaked grains, soy nuts, dried fruit);60;86;;30
+426;Soytana, Vogel's, soy and linseed bran crunch;49;70;;45
+427;Sultana Bran (Kellogg's, Australia) (2007);64;92;;30
+428;Sultana Bran (Kellogg's, Australia) (1997);73;104;;30
+429;Sustain, Original (Kellogg's, Australia) (2007);55;79;;30
+430;Ultra-bran, Vogel's, soy and linseed extruded;41;59;;30
+431;Vogel's Cluster Crunch Classic (Specialty Cereals;50;72;;30
+432;Vogel's Cluster Crunch, Honey Hazelnut;43;61;;30
+433;Wild Oats Cluster Crunch Hazelnut Chocolate;43;61;;30
+434;Wheat-bites (Uncle Toby's, Australia);72;103;;30
+435;Vita-Brits (Uncle Toby's, Australia)17;61;87;;30
+436;Vita-Brits (Uncle Toby's, Australia);68;97;;30
+437;Weet-Bix (Sanitarium, Australia);69;99;;30
+438;Weet-Bix (Sanitarium, Australia);69;99;;30
+439;Weetabix (Weetabix of Canada Ltd.);75;107;;30
+440;Whole wheat Goldies (Kellogg's, Australia);70;100;;30
+441;Wheat based cereal biscuit (UK);72;103;;30
+442;Good Start, muesli wheat biscuits;68;96;;30
+443;Hi-Bran Weet-Bix, wheat biscuits with extra;61;87;;30
+444;Hi-Bran Weet-Bix with soy and linseed;57;81;;30
+445;Honey Goldies (Kellogg's Australia);72;103;;30
+446;Lite-Bix, plain, no added sugar;70;97;;30
+447;Oat bran Weet-Bix (Sanitarium, Australia);57;82;;30
+448;Sultana Goldies (Kellogg's Australia);65;93;;30
+449;Branflakes (Sainsbury's, UK), with semi-skimmed milk;76;109;;30
+450;Cereal flakes with fruit (30 g), consumed with 125 mL;57;82;;155
+451;Cocoa Crunch cereal (30 g) with 125 mL skim milk (UK);58;83;;155
+452;Cornflakes (Sainsbury's, UK) (30 g), consumed with;65;93;;30
+453;Honey Crunch cereal (30 g), consumed with;54;77;;155
+454;Hot oat cereal (30 g), berry flavor (UK);43;61;;155
+455;Hot oat cereal (30 g), cocoa flavor (UK);40;57;;155
+456;Hot oat cereal (30 g), fruit flavor (UK);47;67;;155
+457;Hot oat cereal (30 g), honey flavor (UK);47;67;;155
+458;Hot oat cereal (30 g), orchard fruit flavor (UK);50;72;;155
+459;Hot oat cereal (30 g) (UK);47;67;;155
+460;Hot oat cereal (30 g) (UK);40;57;;155
+461;Muesli, gluten-free (Freedom Foods, Australia);39;56;;30
+462;Muesli, Original (Sainsbury's, UK), consumed;60;86;;30
+463;Muesli, Swiss (Sainsbury's, UK), consumed with;60;86;;30
+464;Muesli, Wheat free (Pertwee Farm's, UK), consumed;49;70;;30
+465;Porridge, jumbo oats (Sainsbury's, UK), consumed;40;57;;250
+466;Porridge, small oats (Sainsbury's, UK), consumed;61;87;;250
+467;Precise (Sainsbury's, UK), with semi-skimmed milk;59;84;;30
+468;Rice Pops (Sainsbury's, UK);80;114;;30
+469;Cereal biscuit (30 g), cocoa flavor (UK);46;66;;155
+470;Cereal biscuit (30 g), fruit flavor (UK);56;80;;155
+471;Cereal biscuit (30 g), honey flavor (UK);52;74;;155
+472;Cereal biscuit (30 g), wheat based (UK);47;67;;155
+473;Cereal bar, cranberry flavor (UK);42;60;;30
+474;Cereal bar, hazelnut flavor (UK);33;47;;30
+475;Cereal bar, orange flavor (UK);33;47;;30
+476;Crunchy Nut Cornflakes bar (Kellogg's, Australia);72;102;;30
+477;Fiber Plus bar (Uncle Toby's, Australia);78;111;;30
+478;Fruity-Bix bar, wheat biscuit cereal with dried fruit;56;80;;30
+479;Fruity-Bix bar, wild berry, wheat biscuit cereal and;51;73;;30
+480;Hi-Lite breakfast bar (Freedom Foods, Australia);53;76;;30
+481;K-Time Just Right bar (Kellogg's, Australia);72;103;;30
+482;K-Time Strawberry Crunch bar (Kellogg's, Australia);77;110;;30
+483;Muesli breakfast bar, gluten-free;50;72;;30
+484;Omega bar, containing linseeds, sunflower kernels;21;30;;30
+485;Rice Bubble Treat bar (Kellogg's, Australia);63;90;;30
+486;Sustain bar (Kellogg's, Australia);57;82;;30
+487;Barley kernels, high-amylose (hull-less) boiled in;20;29;;150
+488;Barley kernels, waxy (hull-less), boiled in water;22;31;;150
+489;Barley kernels, boiled in water for;25;35;;150
+490;Barley kernels, high-amylose (covered), boiled in;26;37;;150
+491;Barley, pot, boiled in salted water 20 min;25;36;;150
+492;Barley, pearled, boiled 60 min (UK);35;50;;150
+493;Barley, pot, boiled (Goudas Food Products, Canada);35;50;;150
+494;Barley, pot, boiled 20 min (Goudas Food;37;53;;150
+495;Barley (Hordeum vulgare) (India);48;69;;150
+497;Buckwheat groats, hydrothermally treated;45;64;;150
+498;Corn granules (China);52;74;;150
+499;Maize (Zea Mays), flour made into chapatti (India);59;85;;30
+500;Cornmeal porridge (China);68;97;;150
+501;Sweet corn, 'Honey & Pearl' variety (New Zealand);37;53;;150
+502;Sweet corn, on the cob, boiled 20 min (Australia);48;69;;150
+503;Sweet corn (China);55;79;;150
+504;Sweet corn (USA)11;60;86;;150
+505;Sweet corn (South Africa);62;89;;150
+506;Couscous, rehydrated with hot water;65;93;;150
+507;Millet porridge (China);62;88;;150
+508;Quinoa, cooked, refridgerated, reheated in microwave;53;76;;150
+509;Arborio, risotto rice, boiled (SunRice brand;69;99;;150
+510;Type NS (India)9;43;62;;150
+511;Type NS (Canada);72;103;;150
+512;Type NS, boiled in salted water (India);72;103;;150
+513;Type NS (China);83;119;;150
+514;Type NS, boiled 13 min (Italy)9, 18;89;127;;150
+515;Type NS, boiled in salted water, refrigerated 16-20 h;53;76;;150
+516;Type NS, boiled 13 min, then baked 10 min (Italy)9, 18;94;134;;150
+517;Long grain, white, unconverted, boiled 15 min;50;71;;150
+518;Long grain, white (Uncle Bens, Auckland;56;80;;150
+519;Premium long grain, white (SunRice brand;59;84;;150
+520;Long grain, white, boiled 7 min (Star brand;64;91;;150
+521;Long grain, boiled (Star Brand, Goudas Food;69;98;;150
+522;Long grain, parboiled 10 min cooking time;68;97;;150
+523;Long grain, parboiled, 20 min cooking time;75;107;;150
+524;Long grain, white, pre-cooked, microwaved 2 min;52;74;;150
+525;Long Grain White Rice in 90 Seconds, microwaved;76;109;;150
+526;Medium grain white rice, boiled 12 mins;75;107;;150
+527;Rice porridge (China);69;99;;150
+528;Rice porridge (Australia);88;126;;150
+529;Rice porridge, made from rice bran (China);19;27;;150
+530;Rice porridge, made from black rice (China);42;60;;150
+531;Rice porridge, made from Sticky rice (China);65;93;;150
+532;American, easy-cook rice (Sainsbury's, UK);49;70;;150
+533;Broken rice, white, cooked in rice cooker;86;123;;150
+534;Brown Rice, Uncle Ben's Ready Whole Grain;48;69;;150
+535;Brown & Wild, Uncle Ben's Ready Whole Grain;45;64;;150
+536;Chicken Flavored Brown Rice, Uncle Ben's Ready;46;66;;150
+537;Glutinous rice, white, cooked in rice cooker;98;140;;150
+538;Jasmine Fragrant rice, white (SunRice brand;89;127;;150
+539;Jasmine rice, white long grain, cooked in rice cooker;109;156;;150
+540;Long Grain and Wild, Uncle Ben's Ready Rice;49;70;;150
+541;Moolgiri white rice (Tajmahal Agro Industries, India);54;77;;150
+542;Original Long Grain, Uncle Ben's Ready Rice;48;69;;150
+544;Roasted Chicken Flavored, Uncle Ben's Ready;51;73;;150
+545;Santa Fe, Uncle Ben's Ready Whole Grain;48;69;;150
+546;Spanish Style, Uncle Ben's Ready Rice (pouch);51;73;;150
+547;Vegetable Harvest, Uncle Ben's Ready Whole;48;69;;150
+548;Calrose, white, medium grain, boiled (Rice Growers;83;119;;150
+549;Sungold, Pelde, parboiled (Rice Growers Co-op.;87;124;;150
+550;Waxy (0-2% amylose) (Rice Growers Co-op., Australia);88;126;;150
+551;Pelde, white (Rice Growers Co-op., Australia);93;133;;150
+552;Doongara, white, cooked in rice cooker (2007);48;69;;150
+553;Doongara, white (1995);50;72;;150
+554;Doongara, white (2005);54;77;;150
+555;Doongara, white (1995);54;77;;150
+556;Doongara, white (1992);64;91;;150
+557;Basmati, white, boiled (Sainsbury's, UK);43;61;;150
+558;Basmati, white, boiled 12 min (Value, UK);52;74;;150
+559;Basmati, white, organic, boiled 10 min (UK);57;82;;150
+560;Basmati, white, boiled (Mahatma brand, Australia);58;83;;150
+561;Basmati, white, boiled (SunRice brand;65;93;;150
+562;Basmati, white, boiled 8 min (UK);69;99;;150
+563;Basmati, easy cook, boiled 9 min (UK);67;96;;150
+564;Basmati, easy-cook rice (Sainsbury's, UK);68;97;;150
+565;Precooked basmati rice in pouch, white, reheated in;57;81;;150
+566;Quick cooking white basmati, cooked 10 min;60;86;;150
+567;Japanese Style Sushi rice, white (SunRice brand;85;122;;150
+568;Japonica, short-grain brown rice (Japan);62;88;;150
+569;Japonica short-grain brown rice;54;78;;150
+570;Japonica short-grain brown rice;57;82;;150
+571;Koshikari (Japonica), white, short-grain;48;68;;150
+572;Japonica, short-grain white rice (Japan);76;109;;150
+573;Japonica, short-grain white rice (Japan);75;107;;150
+574;Japonica white rice and pre-germinated Japonica;64;91;;150
+575;Japonica white rice and pre-germinated Japonica;67;96;;150
+576;Koshihikari rice, white (SunRice brand;73;104;;150
+577;Japonica rice with 3 g Sunfibre, viscosity 1;68;97;;150
+578;Japonica rice with 5 g Sunfibre, viscosity 1;66;94;;150
+579;Milled (white), high amylose (IR42) rice;66;94;;150
+580;Milled (white), high amylose (IR42) rice;64;91;;150
+581;Milled (white), high amylose (IR42) rice;64;91;;150
+582;Milled (white), high amylose (IR62) rice;43;61;;150
+583;Milled (white), high amylose (IR36) rice;50;72;;150
+584;Milled (white), high amylose (IR62) rice;53;75;;150
+585;Milled (white), high amylose (IR36) rice;55;78;;150
+586;Milled (white), high amylose (IR42) rice;58;81;;150
+587;Brown (Canada);66;94;;150
+588;Brown, steamed (USA)11, 14;50;72;;150
+589;Brown rice, boiled in excess water for 25 mins;72;103;;150
+590;Brown rice (China);87;124;;150
+591;Calrose brown (Rice Growers Co-op, Australia);87;124;;150
+592;Doongara brown, high amylose;66;94;;150
+593;Medium Grain Brown Rice in 90 seconds;59;84;;150
+594;Pelde brown (Rice Growers Co-op, Australia);76;109;;150
+595;Parboiled, cooked 20 min, Uncle Ben's Natur-reis;64;91;;150
+596;Sunbrown Quick (Rice Growers Co-op, Australia);80;114;;150
+597;Brown, high amylose (IR42) rice, boiled 30 min;58;83;;150
+598;Instant rice, white, cooked 3 min (China);46;66;;150
+599;Instant rice, white, cooked 6 min;87;124;;150
+600;Instant rice, white, cooked 6 min (China);87;124;;150
+601;Puffed, white, cooked 5 min, Uncle Ben's Snabbris;74;106;;150
+602;Instant Doongara, white, cooked 5 min;94;132;;150
+603;Converted, white, boiled 20-30 min, Uncle Ben's;38;54;;150
+604;Parboiled, low-amylose, Pelde, Sungold;87;124;;150
+605;Parboiled, high-amylose (28%), Doongara;50;69;;150
+606;Rice, Sticky (China);87;124;;150
+607;Rice, Sticky (China);88;126;;150
+608;Rice, Sticky, high-amylose (China);50;72;;150
+612;Durum wheat, precooked in pouch;40;57;;125
+613;Quick cooking (White Wings, Sydney, Australia);54;77;;150
+614;Apricot Temptation fruit cookies, 97% fat-free;47;67;;25
+615;Milk Arrowroot (Arnotts, Sydney, NSW, Australia);69;99;;25
+616;Barquette Abricot (LU, Ris, Orangis, France);71;101;;40
+617;Bebe Dobre Rano Chocolate (2002);46;66;;50
+618;Bebe Dobre Rano Chocolate (2006);46;66;;50
+619;Bebe Dobre Rano Chocolate;57;81;;50
+620;Bebe Dobre Rano Coconut (LU, Czech Republic);48;69;;50
+621;Bebe Dobre Rano Four Cereals (LU, Czech Republic);51;73;;50
+622;Bebe Dobre Rano Honey and Hazelnuts;51;73;;50
+623;Bebe Dobre Rano Nuts and Honey (2002);41;59;;50
+624;Bebe Dobre Rano Nuts and Honey (2006);45;64;;50
+625;Bebe Dobre Rano with Milk (LU, Czech Republic);50;71;;50
+626;Bebe Jemne Susenky (Opavia/LU, Czech Republic);67;96;;25
+627;Better Choice Multicereals (LU, Denmark);51;73;;50
+628;Better Choice Wholegrain (LU Denmark);46;66;;50
+629;Chocolate chip cookies, containing coconut flour;43;61;;25
+630;Digestives (UK);39;56;;25
+631;Digestives (Canada);59;84;;25
+632;Evergreen met Krenten (LU, Netherlands);66;94;;38
+633;Gran'Dia Banana, Oats and Honey (LU, Brazil);28;40;;30
+634;Gran'Dia Chocolate with five cereals (Danone, Brazil);39;56;;30
+635;Grany en-cas Abricot (LU, France);55;79;;30
+636;Grany en-cas Fruits des bois (LU, France);50;71;;30
+637;Grany Rush Apricot (LU, Netherlands);62;89;;30
+638;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2002);45;64;;50
+639;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2003);49;70;;50
+640;Györi Édes Jó reggelt! Muzlivel és gyumölccsel (2004);47;67;;50
+641;Highland Oatmeal (Westons Biscuits, Australia);55;79;;25
+642;Jo Reggelt Fruits and Figs (LU, Hungary);41;59;;50
+643;Jubilee Nuts and Honey (LU, Russia) (2002);44;62;;50
+644;Jubilee Nuts and Honey (LU, Russia) (2003);45;64;;50
+645;Jyväshyvä Paussi Mysli and Fruits (2002);45;64;;50
+646;Jyväshyvä Paussi Mysli and Fruits (2003);49;70;;50
+647;Jyväshyvä Paussi Mysli and Fruits (2004);47;67;;50
+648;Jyväshyvä Paussi Vanilla (LU Finland) (2004);55;79;;50
+649;Jyväshyvä Paussi Vanilla (LU Finland) (2006);39;56;;50
+650;Jyväshyvä Paussi Wholegrain (LU Finland);46;66;;50
+651;Leda Luxury gluten-free chocolate coated cookies;35;50;;25
+652;LU P'tit Déjeuner Chocolat (LU, France);42;60;;50
+653;LU P'tit Déjeuner Miel et Pépites Chocolat;45;64;;50
+654;LU P'tit Déjeuner Miel et Pépites Chocolat;49;70;;50
+655;LU P'tit Déjeuner Miel et Pépites Chocolat;52;74;;50
+656;LU Petit Dejeuner, Chocolate, low in sugar (LU France);51;73;;50
+657;LU Petit Dejeuner Chocolate & Cereals (2003);46;66;;50
+658;LU Petit Dejeuner Chocolate & Cereals (2006);58;83;;50
+659;LU Petit Dejeuner Cereals & Chocolate Chips, low in;37;53;;50
+660;LU Petit Dejeuner Coconut, nuts and chocolate (2005);55;78;;50
+661;LU Petit Dejeuner Coconut, nuts and chocolate (2006);51;73;;50
+662;LU Petit Dejeuner Fruits and Muesli (2002);45;64;;50
+663;LU Petit Dejeuner Fruits and Muesli (2003);49;70;;50
+664;LU Petit Dejeuner Fruits and Muesli (2004);47;67;;50
+665;LU Petit Dejeuner Honey & Chocolate chips (2003);47;67;;50
+666;LU Petit Dejeuner Honey & Chocolate chips (2006);46;66;;50
+667;LU Petit Dejeuner Milk and Cereals (2004);55;79;;50
+668;LU Petit Dejeuner Milk and Cereals (2006);39;56;;50
+669;LU Petit Dejeuner Multicereals (LU France, LU Belgium);46;66;;50
+670;LU Petit Dejeuner with Fruits and Figs;41;59;;50
+671;LU Petit Dejeuner with Prunes (LU, France);51;73;;50
+672;Macaroons, prepared with coconut flour (Philippines);32;46;;30
+673;Maltmeal wafer (Griffin's Foods Ltd., New Zealand);50;71;;25
+674;Morning Coffee (Arnotts, Australia);79;113;;25
+675;Nutrigrain Fruits des bois (Kellogg's, France);57;81;;35
+676;Oat biscuit (UK);45;64;;25
+677;Oat biscuit (China);55;79;;25
+678;Oat biscuit, Nairn's Stem Ginger Oat Biscuit;55;79;;25
+679;Oatmeal (Canada);54;77;;25
+680;Oro (Saiwa, Italy);61;87;;40
+681;Petiki Go ! Fruits and Muesli (2002);45;64;;50
+682;Petiki Go ! Fruits and Muesli (2003);49;70;;50
+683;Petiki Go ! Fruits and Muesli (2004);47;67;;50
+684;Petit brun extra (LU, France);77;110;;25
+685;Petit LU Normand (LU, France);51;73;;25
+686;Petit LU Roussillon (LU, France);48;69;;25
+687;President's Choice Blue Menu Cranberry;60;85;;25
+688;President's Choice Blue Menu Crunchy;62;88;;25
+689;President's Choice Blue Menu Ginger &;64;91;;25
+690;Prince Energie+ (LU, France);73;104;;25
+691;Prince fourré chocolat (LU, France);50;71;;45
+692;Prince fourré chocolat (LU, France);53;76;;45
+693;Prince gout chocolat (LU, France);53;76;;45
+694;Prince Meganana Chocolate (LU, Spain);49;70;;50
+695;Prince Petit Déj Cereals (LU, France);52;74;;50
+696;Prince Petit Déj Cereals and Chocolate (LU, France);51;73;;50
+697;Prince Petit Déjeuner Vanille (LU, France and Spain);45;64;;50
+698;Principe megamanana vanilla (LU, Spain);45;64;;50
+699;Rich Tea (UK);40;57;;25
+700;Rich Tea (Canada);55;79;;25
+701;Sablé des Flandres (LU, France);57;81;;20
+702;Shortbread (Arnotts, Australia);64;91;;25
+703;Shredded Wheatmeal (Arnotts, Australia);62;89;;25
+704;Snack Right Fruit Pillow, Apple and blackberry;43;61;;35
+705;Snack Right Fruit Pillow, Spicy apple and sultana;45;64;;35
+706;Snack Right Fruit Pillow, Wild berry (Arnott's, Australia);52;74;;35
+707;Snack Right Fruit Slice, Mango and passionfruit;49;70;;35
+708;Snack Right Fruit Slice, Mixed berry (Arnott's, Australia);50;71;;35
+709;Snack Right Fruit Slice, Original Sultana (97% fat-free);48;69;;35
+710;Snack Right Fruit Slice, Sultana with chocolate;45;64;;35
+711;Thé (LU, France);41;57;;25
+712;Véritable Petit Beurre (LU, France);51;73;;25
+713;Véritable Petit Beurre (LU, France) (2002);54;78;;25
+714;Véritable Petit Beurre (LU, France) (2006);54;77;;25
+715;Vitasnella frollini (Saiwa, Italy);59;84;;25
+716;Choice grain crackers (UK);49;70;;25
+717;Corn Thins, puffed corn cakes, gluten-free;87;124;;25
+718;Cream Cracker (LU Triumfo, Brazil);65;93;;25
+719;High-calcium cracker (Danone, Malaysia);52;74;;25
+720;Jatz, plain salted craker biscuits (Arnotts, Australia);55;79;;25
+721;Lees Cabin Crackers (Fiji);60;86;;25
+722;President's Choice Blue Menu Ancient Grains;65;93;;25
+723;President's Choice Blue Menu Wheat & Onion;60;86;;25
+724;President's Choice Blue Menu Wheat & Sesame;56;81;;25
+725;President's Choice Blue Menu Wheat snack;65;92;;25
+726;Puffed Crispbread (Westons, Australia);81;116;;25
+727;Puffed rice cakes, white (Rice Growers Co-op, Australia);82;117;;25
+728;Rice cake (China);82;117;;25
+729;Rice cakes, Calrose rice (low-amylose);91;128;;25
+730;Rice cakes, Doongara rice (high-amylose);61;85;;25
+731;Puffed rice cakes, caramel flavored (USA);82;117;;25
+732;Rice cracker, plain (Sakada, Japan);91;130;;30
+733;Rye crackers with oats (UK);64;92;;25
+734;Rye crackers with sesame (UK);57;82;;25
+735;Ryvita (Canada);69;99;;25
+736;Ryvita Pumpkin Seeds & Oats;46;66;;25
+737;Ryvita Sunflower Seeds & Oats;48;69;;25
+738;Kavli Norwegian Crispbread;71;101;;25
+739;Sao, plain square crackers (Arnotts, Australia);70;100;;25
+740;Water cracker (Canada);63;90;;25
+741;Water cracker (Arnotts, Australia);78;111;;25
+742;Wholegrain crackers with sesame seeds and;53;76;;25
+743;Wholewheat crackers with pumpkin and thyme (UK);36;51;;25
+744;Wholewheat sticks, crunchy, yeast extract;50;72;;25
+745;Custard, low-fat, vanilla flavored (Nestlé, Australia);29;41;;100
+746;No Bake Egg Custard, prepared from powder;35;50;;100
+747;Custard, home made from milk, wheat starch;43;61;;100
+748;TRIM, reduced-fat custard (Pauls Ltd;37;52;;100
+749;Custard, low-fat, trifle flavored (Nestlé, Australia);30;43;;100
+750;Crème fraiche dessert, peach (Finest, UK)8;28;40;;150
+751;Crème fraiche dessert, raspberry (Finest, UK)8;30;43;;150
+752;Fromage Frais, red fruit: blackcurrant8;22;31;;100
+753;Fromage Frais, red fruit: raspberry8;31;44;;100
+754;Fromage Frais, red fruit: red cherry8;25;36;;100
+755;Fromage Frais, red fruit: strawberry8;29;41;;100
+756;Fromage Frais, yellow fruit: mandarin and orange8;19;27;;100
+757;Fromage Frais, yellow fruit: mango and papaya8;25;36;;100
+758;Fromage Frais, yellow fruit: passionfruit and pineapple8;18;26;;100
+759;Fromage Frais, yellow fruit: peach and apricot8;22;31;;100
+760;Fruche, low-fat, apricot vanilla honey;34;49;;150
+761;Fruche, low-fat, berry compote;37;53;;150
+762;Fruche, low-fat, duet peach on pineapple;34;49;;150
+763;Fruche, low-fat, lemon sorbetto;34;49;;150
+764;Fruche, low-fat, orange sorbetto;34;49;;150
+765;Fruche, low-fat, peach roulade;37;53;;150
+766;Fruche on Fruit, low-fat, toffee apple;47;67;;150
+767;Ice cream, low carbohydrate, chocolate (Australia)7;32;46;;50
+768;Ice fruit confection, Frosty Fruits Orange;59;84;;50
+769;Ice cream (half vanilla, half chocolate) (Italy)24;57;82;;50
+770;Chocollo, low-fat chocolate flavored ice cream;24;34;;50
+771;Ice cream, low-fat, Bulla Light Creamy vanilla;36;51;;50
+772;Ice cream, low-fat, Bulla Light Real Dairy chocolate;27;39;;50
+773;Ice cream, low-fat, Bulla Light Real Dairy English;27;39;;50
+774;Ice cream, low-fat, Bulla Light Real Dairy mango;30;43;;50
+775;Ice cream, low-fat, vanilla, 'Light';46;66;;50
+776;Ice cream, low-fat, Light & Creamy, Raspberry Ripple;55;79;;50
+777;Ice-cream, low-fat (1.2 % fat), Light Prestige8;47;67;;50
+778;Ice-cream, low-fat (1.4% fat), Light Prestige8;37;53;;50
+779;Ice-cream, reduced-fat (7.1 % fat), Prestige8;37;53;;50
+780;Ice cream, premium, Ultra chocolate, 15% fat;37;53;;50
+781;Ice cream, premium, French vanilla, 16% fat;38;54;;50
+782;Milk, condensed, sweetened (Nestlé, Australia);61;87;;100
+783;Full-fat (Italy)24;11;15;250;
+784;Full-fat (3% fat, Skånemejerier, Malmö, Sweden)8;21;30;250;
+785;Full-fat (Dairy Farmers Ltd, Sydney, Australia)25;31;44;250;
+786;Full-fat (Canada);34;49;250;
+787;Full-fat, pasteurised, fresh, organic (Arla, UK)8;34;49;250;
+788;Full-fat (USA)8;41;59;250;
+789;Full-fat, standardised homogenised, pasteurised;46;66;250;
+792;Full-fat milk + 20g wheat bran (Italy)24;28;40;250;
+793;Banana, honey and malt flavored milk (Australia);31;44;250;
+794;Masters mocha milk (National Foods Ltd, Australia);32;46;250;
+795;Milk, reduced fat (1.4%) (Lite White;30;43;250;
+796;Milk, semi-skimmed, British (Dairycrest, UK)8;25;36;250;
+797;Milk, semi-skimmed, pasteurised, organic (Arla, UK)8;34;49;250;
+798;Milk, reduced fat with added omega 3;23;33;250;
+799;Milk, reduced fat (98% fat free) with added omega 3;27;39;250;
+800;Big M flavored milk, chocolate or strawberry;37;53;250;
+801;Masters Light, 99% fat free chocolate or mocha milk;27;39;250;
+802;Masters, reduced fat, chocolate or strawberry milk;35;50;250;
+803;Milk, low-fat, chocolate, with aspartame, Lite White;24;34;250;
+804;Milk, low-fat, chocolate, with sugar, Lite White;34;49;250;
+805;Rush Heavenly Vanilla Malt milk;31;44;250;
+806;Rush Intense Coffee milk;24;34;250;
+807;Rush Ultimate Chocolate milk;26;37;250;
+808;Rush Wicked Latte milk;26;37;250;
+809;Pura HiLo milk (National Foods Ltd, Australia);20;29;250;
+810;Pura Skimmer milk (National Foods Ltd, Australia);20;29;250;
+811;Milk, skim, made from powder (Arla Foods, Sweden)8, 9;27;38;250;
+812;Pura Light Start milk (National Foods Ltd, Australia);30;43;250;
+813;Pura Tone milk (National Foods Ltd, Australia);30;43;250;
+814;Milk, skim (Canada);32;46;250;
+815;Milk, skim (Dairy Farmers Ltd, Australia)25;32;46;250;
+816;Milk, skim (USA);32;46;250;
+817;Milk, skim (USA)8;37;53;250;
+818;Milk, skimmed, pasteurised, British (Dairycrest, UK)8;48;69;250;
+819;Shape milk, fat free (Dairy Farmers Ltd, Australia)25;34;49;250;
+820;Milkshake, made from Chocollo, low-fat chocolate;21;30;250;
+821;Nestlé Combo mousse (Nestlé, Australia);42;60;;70
+822;Nestlé Milo flavored mousse (Nestlé, Australia);46;66;;70
+823;Butterscotch, 1.9% fat (Nestlé, Australia);36;51;;50
+824;Chocolate, 2% fat (Nestlé, Australia);31;44;;50
+825;Citrus (Nestlé, Australia);47;67;;50
+826;Hazelnut, 2.4% fat (Nestlé, Australia);36;51;;50
+827;Mango, 1.8% fat (Nestlé, Australia);33;47;;50
+828;Mixed berry, 2.2% fat (Nestlé, Australia);36;51;;50
+829;Strawberry, 2.3% fat (Nestlé, Australia);32;46;;50
+830;Chocolate, made from powder and whole milk;47;67;;100
+831;Vanilla, made from powder and whole milk;40;57;;100
+832;Le Rice, Apple & Cinnamon flavor;52;74;;180
+833;Le Rice, Apricot & Almond Muesli flavor;45;64;;180
+834;Le Rice, Caramel flavor;41;59;;180
+835;Le Rice, Forest Berries flavor;45;64;;180
+836;Le Rice, Raspberry & Apple flavor;52;74;;180
+837;Le Rice, Strawberry flavor;54;77;;180
+838;Le Rice, Tropical Mango flavor;54;77;;180
+839;Le Rice, Vanilla flavor;43;61;;180
+840;Jalna Bush Honey Bio Dynamic yoghurt;26;37;;200
+841;Jalna Premium Vanilla Creamy yoghurt;18;26;;200
+842;Yoghurt, black cherry (Finest, UK)8;17;24;;200
+843;Yoghurt, black cherry (Healthy Living Light, UK)8;67;96;;200
+844;Yoghurt, bourbon vanilla (Finest, UK)8;64;92;;200
+845;Yoghurt, champagne rhubarb (Finest, UK)8;49;70;;200
+846;Yoghurt, Devonshire fudge (Finest, UK)8;37;53;;200
+847;Yoghurt, Greek style, honey topped (UK)8;36;51;;200
+848;Yoghurt, lemon curd (Finest, UK)8;67;96;;200
+849;Yoghurt, orange blossom (Finest, UK)8;42;60;;200
+850;Yoghurt, peach & apricot (Healthy Living Light, UK)8;28;40;;200
+851;Yoghurt, peach melba (Value, UK)8;57;82;;200
+852;Yoghurt, raspberry (Healthy Living Light, UK)8;43;61;;200
+853;Yoghurt, red fruit: Morello cherry8;35;50;;200
+854;Yoghurt, red fruit: raspberry and black cherry8;37;53;;200
+855;Yoghurt, red fruit: raspberry and cranberry8;42;60;;200
+856;Yoghurt, Scottish raspberry (Finest, UK)8;32;46;;200
+857;Yoghurt, strawberry (Healthy Living Light, UK)8;30;43;;200
+858;Yoghurt, strawberry and cream (Finest, UK)8;41;59;;200
+859;Yoghurt, summer fruit: apricot8;11;16;;200
+860;Yoghurt, summer fruit: peach and vanilla8;26;37;;200
+861;Yoghurt, summer fruit: raspberry8;28;40;;200
+862;Yoghurt, summer fruit: strawberry8;36;51;;200
+863;Yoghurt, toffee (Healthy Living Light, UK)8;41;59;;200
+864;Yoghurt, tropical fruit: guava and passionfruit8;24;34;;200
+865;Yoghurt, tropical fruit: mango8;32;46;;200
+866;Yoghurt, tropical fruit: peach and apricot8;27;39;;200
+867;Yoghurt, tropical pineapple8 (Healthy Living Light, UK);38;54;;200
+868;Yoghurt, Valencia orange (Finest, UK)8;34;49;;200
+869;Yoghurt, vanilla (Healthy Living Light, UK)8;47;67;;200
+870;Yoghurt, white peach (Finest, UK)8;54;77;;200
+871;Mochaccino frozen yoghurt;51;73;;125
+872;Strawberry Banana frozen yoghurt;55;78;;125
+873;Vanilla frozen yoghurt;46;66;;125
+874;Low-fat, fruit, aspartame, Ski;14;20;;200
+875;Low-fat, fruit, sugar, Ski (Dairy Farmers, Australia);33;47;;200
+876;Low-fat, sugar-sweetened, strawberry classic;33;47;;200
+877;Low-fat (0.9%), fruit, wild strawberry (Ski d'lite;31;44;;200
+878;Low-fat, Nestlé Diet Blueberry (Nestlé, Australia);32;46;;200
+879;Low-fat, Nestlé Diet Mixed Berry (Nestlé, Australia);28;40;;200
+880;Low-fat, Nestlé Diet Peaches & Cream;28;40;;200
+881;Low-fat, apricot (UK)8;42;60;;200
+882;Low-fat, black cherry (UK)8;41;59;;200
+883;Low-fat, hazelnut (UK)8;53;76;;200
+884;Low-fat, peach melba (Value, UK)8;56;80;;200
+885;Low-fat, raspberry (UK)8;34;49;;200
+886;Low-fat, strawberry (UK)8;61;89;;200
+887;Heavenly Honey flavor;32;46;;200
+888;Lemon Crème flavor;43;61;;200
+889;Luscious Berries flavor;29;41;;200
+890;Passionfruit flavor;32;46;;200
+891;Strawberry flavor;28;40;;200
+892;Fat-Free Natural yoghurt;19;27;;200
+893;Greek Style yoghurt, Premium blend;12;17;;200
+894;Leben European Style yoghurt;11;16;;200
+895;Yoghurt, low fat, natural (UK)8;35;50;;200
+896;Passionfruit yoghurt, fat-free (Jalna Dairy Foods;27;39;;200
+897;Diet Vaalia, exotic fruits (Pauls Ltd., Australia)8;23;33;;200
+898;Diet Vaalia, mango (Pauls Ltd., Australia)8;23;33;;200
+899;Diet Vaalia, mixed berry (Pauls Ltd., Australia)8;25;36;;200
+900;Diet Vaalia, strawberry (Pauls Ltd., Australia)8;23;33;;200
+901;Diet Vaalia, vanilla (Pauls Ltd, Australia)8;23;33;;200
+902;Ski, Honey flavor (Dairy Farmers Ltd, Australia);40;57;;200
+903;Ski, vanilla flavor (Dairy Farmers Ltd, Australia);40;57;;200
+904;Yoplait No Fat berry fruit flavors8;16;23;;200
+905;Yoplait No Fat Strawberry Classic flavor8;19;27;;200
+906;Yoplait No Fat tropical fruit flavors8;20;29;;200
+907;Yoplait No Fat yoghurt, various flavors8;18;26;;200
+908;Yoghurt, probiotic, prune (UK)8;44;63;;200
+909;Yoghurt, probiotic, raspberry (UK)8;45;64;;200
+910;Yoghurt, probiotic, strawberry (UK)8;52;74;;200
+911;Reduced-fat, Vaalia, apricot & mango;26;38;;200
+912;Reduced-fat, Vaalia, french vanilla;26;38;;200
+913;Reduced-fat, Extra-Lite, strawberry;28;40;;200
+914;Reduced-fat, strawberry (Czech Republic);43;61;;200
+915;Reduced-fat, Yoplait Lite, berry fruit flavors;25;36;;200
+916;Reduced-fat, Yoplait Lite, tropical fruit flavors;37;53;;200
+917;Reduced-fat, Yoplait Lite, various flavors;27;39;;200
+918;Reduced-fat, Yoplait Lite, Fruit Salad flavor;32;46;;200
+919;Probiotic drink, cranberry (UK)8;56;80;250;
+920;Probiotic drink, orange (UK)8;30;43;250;
+921;Probiotic drink, original (UK)8;34;49;250;
+922;Vitalise Multivitamin Cultured Milk Fruit Drink;24;34;250;
+923;Wildberry Yoghourt on the Go;19;27;250;
+924;Yoghurt drink, reduced-fat, Vaalia, tropical;38;54;250;
+925;Soy milk, full-fat (3%), Original, 0 mg calcium;44;63;250;
+926;Soy milk, full-fat (3%), Calciforte, 120 mg calcium;36;51;250;
+927;Soy milk, full-fat (3%), 120 mg calcium, Calciforte;41;59;250;
+928;Soy milk, Vitasoy Organic (National Foods Ltd;43;61;250;
+929;Soy milk, Vitasoy So Milky Regular;21;30;250;
+930;Soy milk, low-fat (0.7%), Vitasoy Light Original;45;65;250;
+931;Soy milk, reduced-fat (1.5%), Vitasoy So Milky Lite;17;24;250;
+932;Soy milk, reduced-fat (1.5%), 120 mg calcium, Light;44;63;250;
+933;Soy milk, reduced-fat (1.8%), 120 mg calcium, Vitasoy;18;26;250;
+934;Soy Beverage, Chocolate flavored, President's Choice;40;57;250;
+935;Soy Beverage, Original flavored, President's Choice;15;22;250;
+936;Soy Beverage, Vanilla flavored, President's Choice;28;40;250;
+937;Soy milk, reduced-fat (1.5%), Vitasoy Lush;31;44;250;
+938;Soy milk, reduced-fat (1.5%), Vitasoy Lush, Vanilla;31;44;250;
+939;Soy smoothie drink, banana, 1% fat;30;43;250;
+940;Soy smoothie drink, chocolate hazelnut, 1% fat;34;49;250;
+941;Up & Go, cocoa malt flavor (soy milk, rice cereal;43;61;250;
+942;Up & Go, original malt flavor (soy milk, rice cereal;46;66;250;
+943;Xpress, chocolate (soy bean, cereal, legume extract;39;56;250;
+944;Soy yoghurt, peach and mango, 2% fat, sugar;50;71;;200
+945;Apple, Golden Delicious (Canada);39;56;;120
+946;Apple, dried (Australia);29;41;;60
+947;Sliced Apples, canned, solid packed without juice;42;60;;120
+948;Apricots, raw, NS (Australia);34;49;;120
+949;Apricot Halves canned in fruit juice (Langeberg;51;73;;120
+950;Apricots, dried (Australia);30;43;;60
+951;Apricots, dried, ready to eat (UK);31;44;;60
+952;Apricots, dried, ready to eat, bite size (UK);32;46;;60
+953;Apricot dried fruit snack (Australia);42;61;;15
+954;Apricot & apple fruit strips, gluten-free;29;41;;20
+955;Apricot 100% Pure Fruit spread, no added sugar;43;61;;30
+956;Apricot 100% Fruit Spread, Cottees brand;50;72;;30
+957;Apricot fruit spread, reduced sugar (Glen Ewin Jams;55;78;;30
+958;President's Choice Blue Menu Twice the Fruit;56;80;;30
+959;Banana (Australia);47;67;;120
+960;Banana (Canada);62;89;;120
+961;Banana (South Africa);70;100;;120
+962;Banana, processed fruit fingers, Heinz Kidz;61;87;;30
+963;Blackberry 100% Fruit Spread, Cottees brand;46;66;;30
+964;Blackberry Sour Buzz dried fruit leather, Sunripe;35;50;;30
+965;Bluberries, wild (Wild Blueberries Association, Canada);53;76;;100
+966;Breadfruit, peeled, boiled 10 min (Jamaica);47;67;;120
+967;Breadfruit, peeled, boiled 26 min (Jamaica);60;83;;120
+968;Breadfruit, raw (Australia)8;68;97;;120
+969;Breadfruit, roasted on preheated charcoal (Jamaica);72;103;;120
+970;Cherries, dark, raw, pitted (Australia)25;63;90;;120
+971;Cherries, sour, pitted, canned (Always Fresh brand;41;59;;120
+972;Custard apple, raw, flesh only (Australia);54;77;;120
+973;Dates, Barhi variety, dried and vacuum packed;50;71;;60
+974;Dates, Bo ma'an variety, dried and vacuum packed;31;44;;60
+975;Dates, Khalas (Rutab, soft early ripened) variety;47;67;;60
+976;Dates, Khalas (Tamer, sun dried stored in traditional;45;65;;60
+977;Dates, Khalas variety, dried and vacuum packed;36;51;;60
+978;Divine Date spread (Buderim Ginger, Buderim, QLD;29;41;;25
+979;Figs, dried, tenderised, Dessert Maid brand;61;87;;60
+980;Fruit Salad canned in fruit juice, containing peach;54;77;;120
+981;Ginger, candied, sucrose-free;10;14;;25
+982;Ginger Spread, sucrose-free;10;14;;25
+983;Original Ginger marmalade;50;72;;25
+984;Grapes, black, Waltham Cross (Australia);59;84;;120
+985;Grape Nectar (Chateau Barrosa, Lyndoch;52;74;;20
+986;Grapefruit, ruby red segments, canned in juice;47;67;;120
+987;Kiwi fruit (Australia)8;58;83;;120
+988;Lychee, canned in syrup and drained;79;113;;120
+989;Mandarin segments, canned in juice;47;67;;120
+990;Mango (Mangifera indica) (Australia)8;51;73;;120
+991;Mango, low-fat frozen fruit dessert, Frutia;42;60;;100
+992;Mixed fruit, dried (Value, UK);60;86;;60
+993;Nectarines, raw (Australia)8;43;61;;120
+994;Oranges, type NS (South Africa);33;47;;120
+995;Oranges, type NS (Canada);40;57;;120
+996;Marmalade, orange 100% Pure Fruit spread;27;39;;30
+997;Marmalade, orange (Australia);48;69;;30
+998;Breakfast Marmalade 100% Fruit Spread;55;79;;30
+999;Paw paw (Carica papaya) (Australia)8;56;80;;120
+1000;Peach, canned in natural juice (Goulburn Valley;30;43;;120
+1001;Peach, canned in natural juice (SPC Ltd;45;64;;120
+1002;Peach, canned in natural juice (SPC Ardmona Ltd;46;66;;120
+1003;Peach, canned in heavy syrup (Letona Foods;58;83;;120
+1004;Peach, canned in heavy syrup (Homebrand;64;92;;120
+1005;Peach, canned in reduced-sugar syrup, SPC Lite;62;89;;120
+1006;Peach & Grapes, canned in natural fruit juice;46;66;;120
+1007;Peach & Pineapple, canned in natural fruit juice;45;66;;120
+1008;Peach, dried (UK);35;50;;60
+1009;Peach & pear fruit strips, gluten-free;29;41;;20
+1010;Pear halves, canned in reduced-sugar syrup, SPC Lite;25;36;;120
+1011;Pear halves, canned in natural juice (SPC Ltd, Australia);43;61;;120
+1012;Pear, dried (UK);43;61;;60
+1013;Pineapple, raw (Australia)8;66;94;;120
+1014;Pineapple pieces, canned in fruit juice;43;61;;120
+1015;Pineapple pieces, canned in natural fruit juice;55;79;;120
+1016;Pineapple & Papaya pieces, canned in natural juice;53;76;;120
+1017;Prunes, pitted (Sunsweet Growers Inc., Yuba City, USA);29;41;;60
+1018;Raisins (Canada);64;91;;60
+1019;Raspberry 100% Pure Fruit spread, no added sugar;26;37;;25
+1020;Raspberry 100% Fruit Spread, Cottees brand;46;66;;30
+1021;Rockmelon/Cantaloupe, raw (Australia)8;65;93;;120
+1022;Rockmelon/Cantaloupe, raw (Australia)7;70;100;;120
+1023;Strawberries, fresh, raw (Australia)8;40;57;;120
+1024;Strawberry jam (Australia);51;73;;30
+1025;Strawberry100% Fruit Spread, Cottees brand;46;66;;30
+1026;Strawberry fruit leather (Stretch Island Fruit;29;42;;30
+1027;Strawberry & wildberry dried fruit leather, Sunripe;40;57;;30
+1028;Strawberry processed fruit bars, Real Fruit Bars;90;129;;30
+1029;Sultanas (Australia);56;80;;60
+1030;Sultanas (Value, UK);56;80;;60
+1031;Sultanas (UK);58;83;;60
+1032;Tropical dried fruit snack (Australia);41;58;;15
+1033;Vitari, wild berry, non-dairy, frozen fruit dessert;59;85;;100
+1034;Watermelon, raw (Australia)8;72;103;;120
+1035;Watermelon, raw (Australia)7;80;114;;120
+1036;Wild berry dried fruit snack (Australia);35;50;;15
+1037;Apple juice, unsweetened, reconstituted;39;55;250;
+1038;Apple juice, Granny Smith, unsweetened (Australia);44;63;250;
+1039;Apple juice, pure, clear, unsweetened (The Wild;44;63;250;
+1040;Apple juice, pure, cloudy, unsweetened;37;53;250;
+1041;Apple and blackcurrant juice, no added sugar;45;64;250;
+1042;Apple and cherry juice, pure, unsweetened;43;61;250;
+1043;Apple and mango juice, pure, unsweetened;47;67;250;
+1044;Apple, pineapple and passionfruit juice, unsweetened;48;69;250;
+1045;Carrot juice, freshly made (Sydney, Australia)8;43;61;250;
+1046;Cranberry juice cocktail (Ocean Spray;52;74;250;
+1047;Cranberry juice cocktail;68;97;250;
+1048;Cranberry juice drink, Ocean Spray;56;80;250;
+1049;Orange juice (Canada);46;66;250;
+1050;President's Choice Blue Menu Oh-Mega j Orange;48;68;250;
+1051;Orange juice, unsweetened, reconstituted concentrate;53;76;250;
+1052;Orange juice, unsweetened, reconstituted concentrate;54;77;250;
+1053;Prune juice (Golden Circle, Australia);43;61;250;
+1054;SuperJuice Greenzone, containing apple, orange and;47;67;250;
+1055;SuperJuice Immune, containing apple juice;47;67;250;
+1056;SuperJuice Kickstart, containing apple juice;39;56;250;
+1057;Tomato juice, low sodium, President's Choice Blue;23;32;250;
+1058;Tomato juice, no added sugar (Campbell's Soup;33;47;250;
+1059;Tomato juice, canned, no added sugar;38;54;250;
+1060;Infasoy, soy-based, milk-free (Wyeth Nutritionals;55;78;100;
+1061;Karicare gold starter formula with omega plus;35;50;100;
+1062;Nan-1 infant formula with iron (Nestlé, Australia)8;30;43;100;
+1063;S-26 infant formula (Wyeth Nutritionals, Australia)8;36;52;100;
+1064;Apple baby food (Czech Republic);46;66;;120
+1065;Farex baby rice, 7 g cereal with 80 g water;95;136;;87
+1066;Apple, apricot and banana cereal8;56;80;;75
+1067;Creamed rice porridge8;59;84;;75
+1068;Rice pudding8;59;84;;75
+1069;Chicken and noodles with vegetables, strained8;67;96;;120
+1070;Sweetcorn and rice8;65;93;;120
+1071;Gruel (wholemeal wheat, rye, rice, wheat and oat flour);47;67;;250
+1072;Porridge (rice & wheat flour), apple-pear flavored;46;66;;250
+1073;Porridge (wholemeal wheat, oat, rice & wheat flour);51;73;;250
+1074;Porridge (rice and wheat flour), made with;54;77;;250
+1075;Rice porridge, made with whole milk and water24;51;73;;250
+1076;Baked Beans, canned (Canada);40;57;;150
+1077;Baked Beans, Heinz Vegetarian baked haricot beans;40;57;;150
+1078;Baked Beans in Cheesy Tomato sauce;44;63;;150
+1079;Baked Beans in Barbecue sauce (HJ Heinz, Australia);47;67;;150
+1080;Baked Beans in Ham sauce (HJ Heinz, Australia);53;76;;150
+1081;Baked Beans in Mild Curry sauce (HJ Heinz, Australia);49;70;;150
+1082;Baked Beans in Sweet Chilli sauce (HJ Heinz, Australia);46;66;;150
+1083;Baked Beans in Tomato sauce (HJ Heinz, Australia);40;57;;150
+1084;Baked Beans in Tomato sauce, canned, reheated in;57;82;;150
+1085;Beans, dried, type NS (Italy)24;37;52;;150
+1086;Blackeyed beans (Canada);33;47;;150
+1087;Blackeyed peas (Vigna unguiculata);52;74;;150
+1088;Blackeyed peas (Vigna unguiculata), boiled;38;54;;150
+1089;Butter beans, canned, drained, Edgell's brand;36;51;;150
+1090;Butter beans, dried, soaked overnight;26;37;;150
+1091;Butter beans, dried, soaked overnight, cooked in;28;40;;150
+1092;Butter beans (Canada);36;51;;150
+1093;Cannellini beans, canned, drained, Edgell's brand;31;44;;150
+1094;Chickpeas (Cicer arietinum Linn), dried, soaked;10;14;;150
+1095;Chickpeas (Canada);36;51;;150
+1096;Chickpeas, canned, drained, Edgell's brand;38;54;;150
+1097;Chickpea Hommus dip, Chris' Traditional brand;22;31;;30
+1098;Four bean mix, canned, drained, Edgell's brand;37;53;;150
+1099;Haricot/Navy beans, boiled (Canada);31;44;;150
+1100;Haricot/Navy beans (King Grains, Canada);39;56;;150
+1101;Haricot beans, home-cooked, soaked overnight;23;33;;150
+1102;Kidney/white bean (Phaseolus vulgaris Linn);14;19;;150
+1103;Kidney beans (Phaseolus vulgaris) (India);19;27;;150
+1104;Kidney beans (Phaseolus vulgaris L.), red;25;36;;150
+1105;Kidney beans (Canada);29;41;;150
+1106;Kidney beans (Phaseolus vulgaris L.), autoclaved;34;49;;150
+1107;Kidney beans, dried, soaked 12 h, stored moist 24 h;70;100;;150
+1108;Black bean (Phaseolus vulgaris Linn ), soaked;20;28;;150
+1109;Dark Red Kidney beans, canned in brine, drained;43;61;;150
+1110;Red Kidney beans, canned, drained, Edgell's brand;36;51;;150
+1111;Red Kidney beans, dried, soaked overnight;51;73;;150
+1112;Lentils, type NS (Canada);29;41;;150
+1113;Lentils, brown, canned, drained, Edgell's brand;42;60;;150
+1114;Lentils, green, dried, boiled (Australia);37;53;;150
+1115;Lentils, red, split, dried, boiled 25 min (UK);21;30;;150
+1116;Marrowfat peas, dried, boiled (Canada);47;68;;150
+1117;Mung bean (Phaseolus areus Roxb), soaked;31;44;;150
+1118;Mung bean, fried (Australia);53;76;;150
+1119;Mung bean, germinated (Australia);25;36;;150
+1120;Mung bean, pressure cooked (Australia);42;60;;150
+1121;Pigeon Pea (Cajanus cajan Linn. Huth.), soaked;22;31;;150
+1122;Pinto beans, steamed (USA)11, 14;33;47;;150
+1123;Refried Pinto beans, Casa Fiesta brand;38;54;;150
+1124;Soya beans, dried, boiled (Canada);15;21;;150
+1125;Soya beans, dried, boiled (Australia);20;29;;150
+1126;Soya beans, canned (Canada);14;20;;150
+1127;Soya beans, canned in brine, drained, Edgell's brand;14;20;;150
+1128;Split peas, yellow, dried, soaked overnight;25;36;;150
+1129;Chocolate, lactose-free, weight management drink (UK)24;29;41;250;
+1130;Chocolate weight management bar;29;41;;31
+1131;Chocolate weight management drink (UK)24;23;33;250;
+1132;Chocolate weight management drink (UK)24;39;56;250;
+1133;Hazelnut & Apricot bar (Dietworks;42;60;;50
+1134;InZone nutritious beverage powder, prepared;28;40;250;
+1135;Juice Plus+ Complete meal replacement powder;35;50;250;
+1136;Juice Plus+ Complete meal replacement powder;32;46;250;
+1137;French style chicken with rice, reheated8;36;51;;280
+1138;Honey Soy Beef with Wholemeal Noodles, reheated;53;76;;280
+1139;Burmese Vegetable Curry & rice, reheated;49;72;;280
+1140;Chicken Pomodoro, reheated;46;67;;280
+1141;L.E.A.N Fibergy bar, Harvest Oat;45;64;;50
+1142;Nutrimeal, drink powder, Dutch Chocolate;26;37;;250
+1143;L.E.A.N (Life long) Nutribar, Peanut Crunch;30;43;;40
+1144;L.E.A.N (Life long) Nutribar, Chocolate Crunch;32;46;;40
+1145;Lemon weight management bar;23;33;;31
+1146;Lemon weight management bar (UK)24;32;46;;50
+1147;Malt toffee weight management bar (UK)24;43;61;;50
+1148;Peanut Butter weight management bar;22;31;;31
+1149;Provide nutritious beverage powder;28;40;250;
+1150;ReduceXS Chocolate Deluxe formulated meal;10;14;250;
+1151;SICCON D2 nutritious beverage powder, prepared;28;40;250;
+1152;SlimFast chocolate caramel meal replacement bar;54;77;;50
+1153;SlimFast chocolate meal replacement bar;27;39;;50
+1154;SlimFast Chocolate Muesli snack bar;49;70;;50
+1155;SlimFast Double Chocolate meal replacement powder;36;51;;50
+1156;SlimFast French Vanilla ready-to-drink shake;37;53;250;
+1157;SlimFast meal replacement powder, prepared;35;50;250;
+1158;SlimFast Strawberry Supreme ready-to-drink shake;33;47;250;
+1159;SlimFast Garden vegetable soup with;20;29;250;
+1160;SlimFast Pasta Florentina meal (SlimFast Foods, UK);53;76;;250
+1161;Tony Ferguson's Meal Replacement Shake;22;31;250;
+1162;Designer chocolate, sugar-free8;14;20;;35
+1163;Chocolate deluxe8;29;41;;50
+1164;Peanut butter8;23;33;;50
+1165;Chewy choc-chip8;30;43;;80
+1166;Chocolate deluxe8;38;54;;80
+1167;Peanut butter8;22;31;;80
+1168;Strawberry shortcake8;43;61;;80
+1169;White chocolate mousse8;40;57;;80
+1170;Choc-chip cookie dough8;25;36;;55
+1171;Coconut8;42;60;;55
+1172;Peanut butter8;37;53;;55
+1173;Beef and ale casserole, convenience meal (Finest, UK)8;53;76;;300
+1175;Fillet-O-Fish burger (fish patty, cheese and tartare;66;94;;128
+1176;Hamburger (beef patty, ketchup, pickle, onion and;66;94;;95
+1177;Lean beef burger (lean beef patty, tomato, mixed;66;94;;164
+1178;McChicken burger (chicken patty, lettuce;66;94;;186
+1179;Vege Burger (vegetable patty, lettuce, tomato and;59;84;;100
+1180;Cannelloni, spinach and ricotta (UK);15;21;;300
+1181;Chicken korma and peshwari rice, prepared meal;44;63;;300
+1182;Chicken korma and rice, convenience meal;45;64;;300
+1183;Chicken nuggets, frozen, reheated in;46;66;;100
+1184;Chicken McNuggets consumed with sweet Thai;55;79;;100
+1185;Chicken tikka masala and rice, convenience meal;34;49;;300
+1186;Chilli beef noodles, prepared convenience meal;42;60;;300
+1187;Chilli con carne, made from haricot beans (Australia);34;49;;300
+1188;Chow mein, chicken, convenience meal8;55;79;;300
+1189;Chow mein, chicken, convenience meal;47;67;;300
+1190;Wholegrain Pasta & Sauce, Cheesy, prepared;37;53;;200
+1191;Wholegrain Pasta & Sauce, Creamy Carbonara;39;56;;200
+1192;Wholegrain Pasta & Sauce, Creamy Sun-dried Tomato;43;61;;200
+1193;Wholegrain Pasta & Sauce, Parmesan and Cracked;33;47;;200
+1194;Cottage pie (UK);65;93;;300
+1195;Cumberland fish pie (UK);40;57;;300
+1196;Cumberland pie (UK);29;41;;300
+1197;Dates, Khalas (Rutab, soft early ripened) (90 g);37;53;;215
+1198;Dates, Khalas (Tamer, dark brown commercial) (60 g);29;41;;185
+1199;Dumpling, containing meat and shallots (China);28;40;;100
+1200;Fajitas, chicken (UK);42;60;;300
+1201;Greek lentil stew with a bread roll, home made;40;57;;360
+1202;Instant mashed potato (McCain, McCain Foods, USA);66;94;;100
+1203;Kidney beans, (canned) with bacon and tomatoes;36;51;;250
+1204;Kidney beans, (cooked from dried beans) with bacon;21;30;;250
+1205;Lamb moussaka, prepared convenience meal8;35;50;;300
+1206;Lasagne, beef (frozen) (UK);47;67;;300
+1207;Lasagne, meat (Healthy Living, chilled, UK);28;40;;300
+1208;Lasagne, type NS (Finest, UK);34;49;;300
+1209;Lasagne, type NS (UK);25;36;;300
+1210;Lasagne, vegetarian (UK);20;29;;300
+1211;Lentil and cauliflower cury with rice (Australia);60;86;;300
+1212;Lentil and cheese pie (Australia);25;36;;300
+1213;Lentils and vegetables, steamed for 10 min then boiled;35;49;;200
+1214;Mushroom stroganoff with rice (UK);26;37;;300
+1215;Parboiled rice (Uncle Bens Converted, Mars, USA);27;38;;100
+1216;Pasta bake, tomato and mozzarella (UK);23;33;;300
+1220;Spaghetti, beans & vegetables steamed for 25 min;54;77;;200
+1221;Pies, beef, party size (Farmland;45;64;;100
+1222;Pizza, Super Supreme, pan (11.4% fat);36;51;;100
+1223;Pizza, Super Supreme, thin and crispy (13.2 % fat);30;43;;100
+1224;Pizza, Vegetarian Supreme, thin and crispy (7.8 % fat);49;70;;100
+1225;Stone Baked Whole Wheat Pizza - Vegetable, Pesto;54;78;;100
+1226;Potato, Estima (50 g), microwaved 6 min then;62;89;;139
+1227;Potato, Estima (50 g), microwaved 6 min then;76;109;;112
+1228;Potato, Estima (50 g), microwaved 6 min then baked;39;56;;112
+1229;Potato, Estima (50 g), microwaved 6 min then baked;75;107;;113
+1230;Potato noodles with meat (China);17;24;;300
+1231;Barley Risotto with Herbed Chicken (entrée);38;54;;300
+1232;4-Bean Salad, low-fat;13;19;;100
+1233;Cauliflower-Topped Shepherd's Pie (entrée);21;30;;300
+1234;Chicken Curry with Vegetables (entrée);26;37;;300
+1235;Deluxe Cheddar Macaroni & Cheese Dinner;34;48;;60
+1236;Ginger-Glazed Salmon (entrée);41;58;;300
+1237;Lentil and Bean Vegetable Patties;54;78;;113
+1238;Linguine with Shrimp Marinara (entrée);40;57;;300
+1239;Penne with Roasted Vegetables (entrée);39;56;;300
+1240;Rotini with Chicken Pesto (entrée);57;81;;300
+1241;3-Rice Bayou Blend Rice & Beans Sidedish;44;63;;50
+1242;4-Rice Pilaf Rice & Beans Sidedish;46;65;;50
+1243;Rice & Lentils Espana Sidedish;49;69;;50
+1244;Sesame Ginger Chicken with Vegetables (entrée);44;63;;300
+1245;Tomato and Herb Chicken (entrée);29;42;;300
+1246;Vegetable Ancient Grain Vegetable Patties;54;77;;113
+1247;Vegetarian Chili;39;56;;300
+1248;Yellow Curry Chicken (entrée);25;36;;300
+1249;Sausages and mash potato, prepared;61;87;;300
+1250;Sirloin chop with mixed vegetables and mashed;66;94;;360
+1251;Shepherds pie, prepared convenience meal (UK);66;94;;300
+1252;Spaghetti bolognaise, home made (Australia);52;74;;360
+1253;Steak and ale with cheddar mash potato8;48;69;;300
+1254;Stuffed bun, with shallots and meat, steamed (China);39;56;;100
+1255;Sushi, salmon ('I Love Sushi', Sydney, Australia)8;48;69;;100
+1256;Sushi, roasted sea algae, vinegar and rice (Japan);55;79;;100
+1257;Sweet and sour chicken with noodles, prepared;41;59;;300
+1258;Tandoori chicken masala & rice convenience meal;45;64;;300
+1259;Chicken Tandoori Deli Choice white French roll;78;112;;270
+1261;Turkey & Cranberry Deli Choice Multigrain roll;63;90;;200
+1262;White wheat flour bread, butter, cheese, regular milk;55;79;;200
+1263;White wheat flour bread, butter, yoghurt and;39;55;;200
+1264;White bread roll with cheese (UK);50;72;;100
+1265;White bread (Rustico Panem, Panem, Verona, Italy);78;112;;36
+1266;White bread (Rustico Panem, Panem, Verona, Italy);20;28;;36
+1267;White bread (Rustico Panem, Panem, Verona, Italy);20;28;;36
+1269;White bread (30 g), toasted, served with;50;72;;81
+1270;White bread (30 g), toasted, served with cheddar;35;50;;66
+1271;White Bread (Wonder Bread, Interstate Bakeries);74;106;;170
+1272;White Bread (Wonder Bread, Interstate Bakeries);44;63;;200
+1273;White bread (Wonder Bread, Interstate Bakeries);39;55;;160
+1274;White Bread (Wonder Bread, Interstate Bakeries);31;45;;230
+1275;Choicedm, vanilla (Mead Johnson Nutritionals;23;33;237;
+1276;Diasip, diabetes-specific enteral formula8;12;17;250;
+1277;Diason/Nutrison Diabetes, diabetes-specific enteral8;17;24;250;
+1278;Diben, diabetes-specific enteral formula8;22;31;250;
+1279;Enercal Plus, made from powder (Wyeth-Ayerst;61;87;237;
+1280;Ensure, vanilla (Abbott Australasia, Kurnell;50;71;237;
+1281;Ensure, vanilla (Abbott Australasia);48;69;237;
+1282;Ensure bar, chocolate fudge brownie;43;61;;38
+1283;Ensure Hospital, nutritional supplement powder;51;73;250;
+1284;Ensure Plus, vanilla (Abbott Australasia);40;57;237;
+1285;Ensure Pudding, old fashioned vanilla;36;51;;113
+1286;Fortimel enteral formula (Nutricia N.V., Netherlands)8;25;36;250;
+1287;Glucerna Chocolate Graham nutritional;20;29;;50
+1288;Glucerna, diabetes-specific enteral formula;15;21;250;
+1289;Glucerna, vanilla flavor8;19;27;250;
+1290;Glucerna, vanilla flavor8;20;29;250;
+1291;Glucerna, vanilla flavor (Ross Nutrition, Canada);26;37;250;
+1292;Glucerna, vanilla (Abbott Laboratories Inc., USA)8;31;44;250;
+1293;Glucerna Select, enteral nutritional supplement8;16;23;250;
+1294;Glucerna SR, diabetes-specific enteral formula;23;33;250;
+1295;Inslow (Abbott Nutrition International -Japan)8;25;36;250;
+1296;Jevity (Abbott Australasia);48;69;237;
+1297;Jevity HiCal, enteral nutritional supplement;59;84;250;
+1298;Novasource Diabet, diabetes-specific enteral formula8;26;37;250;
+1299;Nutridrink (Nutricia N.V., Netherlands)9;25;36;250;
+1300;Nutridrink Multifiber, containing 2.3 g fiber/100 mL;22;31;250;
+1301;Nutrison Mutli fiber enteral formula8;28;40;250;
+1302;Nutrison Standard enteral formula8;34;49;250;
+1303;Promote with fiber nutritional supplement;49;70;237;
+1304;Prosure, ready-to-drink supplement, vanilla flavor;54;78;237;
+1305;Prosure, ready-to-drink supplement, vanilla flavor;55;79;237;
+1306;Resource Diabetic, French vanilla (Novartis;34;49;237;
+1307;Resource Diabetic, Swiss chocolate;16;23;237;
+1308;Resource fruit beverage, peach flavor;40;57;237;
+1309;Resource thickened orange juice;47;67;237;
+1310;Resource thickened orange juice;54;77;237;
+1311;Sustagen, Dutch Chocolate (Mead Johnson;31;44;250;
+1312;Sustagen Hospital with extra fiber, drink made;33;47;250;
+1313;Sustagen Instant Pudding, vanilla, made from;27;38;;250
+1314;Tapion nutritonal supplement8 (Abbott Nutrition;27;39;250;
+1315;TwoCal HN, high nitrogen nutritional supplement;55;78;237;
+1316;Ultracal with fiber (Mead Johnson;40;55;237;
+1317;Cashew nuts, salted (Coles Supermarkets, Australia)8;22;31;;50
+1318;Cashew nuts (UK)8;25;36;;50
+1319;Cashew nuts, organic, roasted and salted (UK)8;25;36;;50
+1320;Cashew nut halves (UK)8;27;39;;50
+1321;Cashew nuts, roasted and salted (UK)8;27;39;;50
+1322;Mixed nuts and raisins (UK);21;30;;50
+1323;Mixed nuts, roasted and salted (UK);24;34;;50
+1324;Peanuts, crushed (South Africa)8;7;10;;50
+1325;Buckwheat noodles (China);59;85;;180
+1326;Buckwheat noodles, instant (China);53;76;;180
+1327;Corn pasta, gluten-free (Orgran Natural Foods;68;97;;180
+1328;Corn pasta, gluten-free;78;111;;180
+1329;Fettucine, egg (Australia);32;46;;180
+1330;Fettucine, egg (Mother Earth Fine Foods;47;67;;180
+1331;Fusilli pasta twists (Tesco Stores Ltd, UK);61;87;;180
+1332;Fusilli pasta twists, dry pasta, boiled in 10 min;54;77;;180
+1333;Fusilli pasta twists, tricolour, dry pasta;51;73;;180
+1334;Fusilli pasta twists, wholewheat, dry pasta, boiled;55;79;;180
+1335;Gluten-free pasta, maize starch, boiled 8 min (UK);54;77;;180
+1336;Gnocchi, type NS (Latina, Pillsbury Australia Ltd;68;97;;180
+1337;Instant 'two-minute' noodles, Maggi;46;66;;180
+1338;Instant 'two-minute' noodles, Maggi;48;69;;180
+1339;Instant 'two-minute' noodles, Maggi, all flavors;52;74;;180
+1340;Instant noodles, all flavors (Woolworths Limited;52;74;;180
+1341;Lasagne sheets, dry pasta, boiled in unsalted water;55;79;;180
+1342;Lasagne, egg, dry pasta, boiled in unsalted water (UK);53;76;;180
+1343;Lasagne, egg, verdi, dry pasta, boiled in;52;74;;180
+1344;Thick, durum wheat, white, fresh (Sweden);43;62;;180
+1345;Thick, fresh, durum wheat flour, 0.6% w/w;48;68;;180
+1346;Thin, durum wheat (Sweden);49;70;;180
+1347;Thin, fresh, durum wheat flour, 0.6% w/w;61;87;;180
+1348;Thin, fresh, durum wheat with 39% w/w egg, (Sweden);45;64;;180
+1349;Thin, fresh, with 0.6% w/w monoglycerides and;53;76;;180
+1350;Mung bean noodles (Longkou beanthread);39;56;;180
+1351;Proti pasta, protein-enriched, boiled in water;28;40;;180
+1352;Ravioli, durum wheat flour, meat filled, boiled (Australia);39;56;;180
+1353;Rice noodles, dried, boiled (Thai World;61;87;;180
+1354;Rice noodles, freshly made, boiled;40;57;;180
+1355;Rice noodles made from IR42 (high amylose);41;58;;180
+1356;Rice pasta, gluten-free (Freedom Foods, Australia);51;73;;180
+1357;Rice pasta, brown, boiled 16 min;92;131;;180
+1358;Rice and maize pasta, gluten-free, Ris'O'Mais;76;109;;180
+1359;Spaghetti, gluten-free, rice and Hi-Maize;51;73;;180
+1360;Spaghetti, gluten-free, rice and split pea;68;97;;220
+1361;Spaghetti, 75% durum wheat flour and 25% chickpea;41;59;;180
+1362;Spaghetti, soy (Revival Soy, Physicians;47;67;;180
+1363;White, boiled for 10 min (Rio Dulce SA;51;73;;180
+1364;White, durum wheat, boiled 10 min in salt water;58;83;;180
+1365;White, durum wheat flour, boiled 12 min;47;67;;180
+1366;White, durum wheat flour, 0.6% w/w monoglycerides;53;76;;180
+1367;White, boiled 15 min in salted water;44;63;;180
+1368;100% durum semolina spaghetti, boiled 15 min;41;58;;180
+1369;White, durum wheat, boiled 20 min (Australia);58;83;;180
+1370;White (France);39;55;;180
+1371;White (Nishin Shokuhin, Japan);46;66;;180
+1372;White (Unico, Canada);48;68;;180
+1373;White (Vetta, Greens Foods, Glendenning, Australia);49;70;;180
+1374;White (Canada);50;71;;180
+1375;Boiled in 0.7% salted water for 11 min;59;84;;180
+1376;Boiled in 0.7% salted water for 16.5 min;65;93;;180
+1377;Boiled in 0.7% salted water for 22 min;46;66;;180
+1378;Wholemeal (Canada);42;60;;180
+1379;President's Choice Blue Menu Whole Wheat;45;65;;180
+1380;Wholemeal pasta, dark durum wheat, boiled 10 min in;58;83;;180
+1381;Spirali, durum wheat, white, boiled to al denté texture;43;61;;180
+1382;Split pea and soya pasta shells, gluten-free;29;41;;180
+1383;Tagliatelle, egg pasta, boiled in water for 7 min (UK);46;66;;180
+1384;Tagliatelle, egg, boiled (Sainsbury's, UK);54;77;;180
+1385;Udon noodles, plain, reheated 5 min (Fantastic;62;89;;180
+1386;Vermicelli, white, boiled, Vetta (Australia);35;50;;180
+1387;Wheat noodle, dried (China);46;66;;180
+1388;Wheat noodle, fresh (China);82;117;;180
+1389;Brownies, containing coconut flour (Philippines);42;60;;50
+1390;Chick Pea chips (Freedom Foods, Australia);44;63;;50
+1391;Chocolate crinkles, containing coconut flour;43;61;;50
+1392;Chocolate, dark, Dove (M&M/Mars, USA);23;33;;50
+1393;Chocolate, dark with raisins, peanuts and jam;44;63;;50
+1394;Chocolate, milk, plain with sucrose (Belgium)8;34;49;;50
+1395;Chocolate, milk (Cadbury's Confectionery;49;70;;50
+1396;Chocolate, milk, Dove (Mars Confectionery;45;64;;50
+1397;Chocolate, milk (Nestlé, Sydney, NSW, Australia);42;60;;50
+1398;Chocolate candy, sugar free, Dove;23;33;;50
+1399;Chocolate, white, Milky Bar (Nestlé, Australia);44;63;;50
+1400;Cocoavia Chocolate Covered Almonds;21;30;;30
+1401;Combos Snacks Cheddar Cheese Crackers;54;77;;50
+1402;Combos Snacks Cheddar Cheese Pretzels;52;74;;50
+1403;Corn chips, plain, salted (Doritos original;42;60;;50
+1404;Corn chips, plain, salted (Doritos original;72;103;;50
+1405;Flaxseed Tortilla chips, Sea Salt;45;65;;50
+1406;Flaxseed Tortilla chips, Spicy;34;49;;50
+1407;Japanese Tamari Rice & Corn Crisps;91;131;;50
+1408;Japanese Wasabi & Honey Rice & Corn Crisps;82;117;;50
+1409;Thai Curry Rice & Corn Crisps;84;120;;50
+1410;Fruit and nut mix (Finest, UK);15;21;;50
+1411;Apple Fruit Bar, fat-free, President's Choice Blue;90;129;;40
+1412;Apricot and Almond bar (UK);34;49;;30
+1413;Apricot filled fruit bar (pureed dried apricot filling;50;71;;50
+1414;Apricot & Yoghurt Healtheries Simple Bar, wheat;40;57;;50
+1415;Berry & Yoghurt Healtheries Simple Bar, wheat;51;73;;50
+1416;Berrylicious Trim Bar;46;66;;50
+1417;Blackberry Sour Buzz dried fruit leather, Sunripe;35;50;;30
+1418;Fig Fruit bar, President's Choice Blue Menu;70;101;;40
+1419;Fruit & Yogurt Apple Cinnamon Chewy Bars (Soy);34;49;;40
+1420;Fruit & Yogurt Cranberry Blueberry Bars (Soy);33;47;;40
+1421;Heinz Kidz Fruit Fingers, banana (HJ Heinz, Australia);61;87;;30
+1422;Raspberry Fruit bar, fat-free, President's Choice;74;106;;40
+1423;Real Fruit Bars, strawberry (Uncle Toby's, Australia);90;129;;30
+1424;Roll-Ups, processed fruit snack;99;142;;30
+1425;Strawberry fruit leather (Stretch Island Fruit;29;42;;30
+1426;Strawberry & Wildberry dried fruit leather, Sunripe;40;57;;30
+1427;Gelati, sucrose-free frozen dessert, chocolate flavor;37;53;;100
+1428;Gelati, sucrose-free frozen dessert, vanilla flavor;39;56;;100
+1429;Chocollo, low-fat chocolate flavored ice;44;63;;100
+1430;Chocollo, low-fat chocolate flavored;55;79;;110
+1431;Jelly, made from commercial jelly crystals;53;76;;120
+1432;Jelly beans, assorted colors (Allen's, Nestlé, Australia);80;114;;30
+1433;Jelly beans, assorted colors (Savings;76;109;;30
+1434;Kudos Milk Chocolate Granola bar with M&M's Milk;52;74;;50
+1435;Kudos Whole-Grain bars, chocolate chip;62;89;;50
+1436;Kudos Milk Chocolate Granola bars;45;64;;50
+1437;Licorice, soft (Coles Supermarkets, Australia);78;111;;30
+1438;Life Savers, peppermint candy (Nestlé, Australia);70;100;;30
+1439;M & M's, peanut (Mars Confectionery, Australia);33;47;;30
+1440;Mars Bar (Mars Confectionery, Australia);62;89;;60
+1441;Mars Bar (M&M/Mars, USA);68;97;;60
+1442;Marshmallows (Candy Lane, Australia);62;89;;30
+1443;Milky Way bar (M&M/Mars, USA);62;89;;60
+1444;Milky Way Lite bar (M&M/Mars, USA);45;64;;45
+1445;Muesli bar, crunchy, containing dried apricot;61;87;;30
+1446;Nougat, Jijona (La Fama, Spain)9;32;46;;30
+1447;Nutella, chocolate hazelnut spread (Ferrero;33;47;;20
+1448;Nutella, chocolate hazelnut spread;30;43;;20
+1449;Nutella, chocolate hazelnut spread;25;36;;20
+1450;Pirate's Booty, aged white cheddar extruded snack;70;100;;20
+1451;Microwave Popping Corn, butter flavor, President's;72;103;;20
+1452;Microwave Popping Corn, natural flavor, President's;58;83;;20
+1453;Popcorn (China);55;78;;20
+1454;Popcorn, plain, cooked in microwave oven;55;79;;20
+1455;Poppin Microwave Popcorn, butter flavor;62;89;;20
+1456;Poppin Lite Microwave Popcorn, butter flavor;67;96;;20
+1457;Popcorn, plain, cooked in microwave oven;89;127;;20
+1458;Pop Tarts, double choc (Kellogg's, Australia);70;100;;50
+1459;Potato crisps, plain, salted (Canada);51;73;;50
+1460;Potato crisps, plain, salted (Arnott's, Australia);57;81;;50
+1461;Potato crisps (China);60;86;;50
+1462;President's Choice Blue Menu Original and;66;94;;50
+1463;Pretzels, oven-baked, traditional wheat flavor;83;119;;30
+1464;Pretzels, oven-baked, traditional wheat flavor, 97%;84;120;;30
+1465;Puffed rice squares (Czech Republic);77;110;;30
+1466;Skittles (Mars Confectionery, Australia);70;100;;50
+1467;Chewy Chocolate Chip & Marshmallow Granola Bar;78;112;;26
+1468;Chewy Cranberry Apple Granola Bar;58;82;;26
+1469;Chocolate Healtheries Simple bar, wheat and gluten;35;50;;50
+1470;Chocolate Raspberry Zing bar (Revival Soy;47;68;;50
+1471;Cocoavia Chocolate Almond Snack bar;63;90;;50
+1472;Cocoavia Cripsy Chocolate Bar (M&M/Mars, USA);33;47;;50
+1473;ExtendBar Apple Cinnamon Delight Bar;33;47;;50
+1474;ExtendBar Chocolate Delight Bar;41;59;;50
+1475;ExtendBar Peanut Delight Bar (ExtendBar, USA);32;46;;50
+1476;Granola bar, containing coconut flour (Philippines);46;65;;50
+1477;Munch Peanut Butter bar (M&M/Mars, USA);27;39;;50
+1478;Oat bar, made from oat flour and bran starch (Canada)9;59;85;;50
+1479;Peanut Butter Chocolate Pal bar (Revival Soy;52;74;;50
+1480;60% Whole Wheat Fig Fruit bar, President's;72;103;;50
+1481;Slimfast Meal Options bar, rich chocolate brownie;64;91;;50
+1482;Snack bar, Apple Cinnamon (Con Agra Inc.;40;57;;50
+1483;Snack bar, Peanut Butter and Choc-Chip;37;53;;50
+1484;Trim bar, Chocorama;31;44;;50
+1485;Trim Bar, Mocha flavor (Aussie Bodies;25;36;;50
+1486;Snickers Bar (Mars Confectionery, Australia);41;59;;60
+1487;Snickers Bar (M&M/Mars, USA);43;61;;60
+1488;Snickers Bar (M&M/Mars, USA)9;68;97;;60
+1489;Apple Soy Joy Bar;19;27;;30
+1490;Apricot Soy Joy Bar;27;39;;30
+1491;Chocolate Orange Soy Joy Bar;41;59;;30
+1492;Mango Coconut Soy Joy Bar;28;40;;30
+1493;Plum + Fe Soy Joy Bar;25;36;;30
+1494;Plum + Folic acid Soy Joy Bar;27;39;;30
+1495;Raisin Almond Soy Joy Bar;28;40;;30
+1496;Sanzashi Soy Joy Bar;29;41;;30
+1497;Strawberry Soy Joy Bar;33;40;;30
+1498;Sunshine soy protein chips, lightly salted8;87;124;;50
+1499;Tropical fruit and nut mix (Finest, UK);49;70;;50
+1500;Twisties, cheese-flavored, extruded snack;74;106;;50
+1501;Twix Cookie Bar, caramel (M&M/Mars, USA);44;63;;60
+1502;Yummiees lollies (Allseps Pty. Ltd., Australia);43;61;;15
+1503;Clif bar, Chocolate Brownie Energy bar;57;82;;65
+1504;Performance Chocolate Energy bar (Power Bar, USA);53;76;;65
+1505;Power Bar, chocolate;58;83;;65
+1506;Power Bar, chocolate9;53;75;;65
+1507;Ironman PR bar, chocolate (PR Nutrition;39;55;;65
+1508;SmartZone Chocolate flavor;11;16;;50
+1509;SmartZone Chocolate flavor;16;23;;50
+1510;SmartZone Crunchy Blueberry flavor;15;21;;50
+1511;SmartZone Crunchy Chocolate Brownie flavor;23;33;;50
+1512;SmartZone Crunchy Chocolate Caramel flavor;16;23;;50
+1513;SmartZone Crunchy Chocolate Peanut Butter flavor;14;20;;50
+1514;SmartZone Crunchy Key Lime flavor;14;20;;50
+1515;SmartZone Peanut Butter flavor;18;26;;50
+1516;Chewy Chocolate Peanut flavor;36;51;;50
+1517;Cookies & Crème flavor;50;72;;50
+1518;Multi Grain Crunch flavor;50;72;;50
+1519;Peanut Butter flavor;34;49;;50
+1520;Chocolate Fudge Brownie flavor;20;29;;50
+1521;Peanut Butter flavor;21;30;;50
+1522;Dark Chocolate Crunch flavor;49;70;;25
+1523;Honey & Roasted Almond flavor;41;59;;25
+1524;Caramel Nut Rush flavor;26;37;;50
+1525;Chocolate Nut Burst flavor;32;46;;50
+1526;SoLo GI Berry Bliss Nutrition bar;29;41;;50
+1527;SoLo GI Chocolate Charger Nutrition bar;28;40;;50
+1528;SoLo GI Lemon Lift Nutrition bar;29;41;;50
+1529;SoLo GI Mint Mania Nutrition bar;23;33;;50
+1530;SoLo GI Peanut Power Nutrition bar;27;39;;50
+1531;SoLo GI Berry Bliss Snack bar;29;41;;25
+1532;SoLo GI Chocolate Charger Snack bar;28;40;;25
+1533;SoLo GI Lemon Lift Snack bar;29;41;;25
+1534;SoLo GI Mint Mania Snack bar;23;33;;25
+1535;SoLo GI Peanut Power Snack bar;27;39;;25
+1536;VO2 Max Chocolate Energy bar (M&M/Mars, USA);49;70;;65
+1537;ZonePerfect Nutrition bar, Double Chocolate flavor;44;62;;50
+1538;Barley Vegetable Instant soup, low-fat;41;59;;250
+1539;Carrot soup, President's Choice Blue Menu;35;50;;250
+1540;Chicken and mushroom soup (UK)24;46;66;;250
+1541;Chicken and mushroom soup (UK)24;69;99;;250
+1542;Chicken & Vegetable with wholegrain pasta, Country;43;61;;250
+1543;Garden vegetable soup with peppers and croutons;20;29;;250
+1544;Indian Lentil Instant soup, low-fat;62;88;;250
+1545;Lentil, ready-to-serve, President's Choice Blue;57;82;;250
+1546;Minestrone, condensed, prepared with water;48;69;;250
+1547;Minestrone, Traditional, Country Ladle;39;56;;250
+1548;Minestrone & Pasta Instant soup, low-fat;54;77;;250
+1549;Mushroom Barley, ready-to-serve, President's Choice;45;65;;250
+1550;Pasta & Fagioli soup, ready-to-serve, President's;52;75;;250
+1551;Pumpkin Soup, creamy, Heinz Very Special, with;76;108;;250
+1552;Spicy Black Bean Instant soup, low-fat, President's;57;81;;250
+1553;Spicy Black Bean with Vegetables soup;46;65;;250
+1554;Spicy Thai Instant soup, low-fat, President's Choice;56;81;;250
+1555;Tomato soup, condensed, prepared with water;52;74;;250
+1556;Tomato & Herb, President's Choice Blue Menu;47;67;;250
+1557;Vegetable soup (UK)24;60;86;;250
+1558;Vegetable Couscous Instant soup, low-fat, President's;57;82;;250
+1559;Vegetarian Chili Instant soup, low-fat, President's;36;51;;250
+1560;Winter Squash, President's Choice Blue Menu;41;59;;250
+1561;Organic Agave Cactus Nectar, light, 90% fructose;11;16;;10
+1562;Organic Agave Cactus Nectar, light, 97% fructose;10;14;;10
+1563;Premium Agave nectar (Sweet Cactus Farms, USA);19;27;;10
+1564;25 g portion (Sweeten Less, Maximum Nutrition Inc.;11;16;;1
+1565;50 g portion (Sweeten Less, Canada);12;16;;1
+1566;50 g portion (China);23;33;;10
+1567;50 g portion (dextrose);96;137;;10
+1568;50 g portion (Bio-Health, Dawson Traders Ltd.;96;137;;10
+1569;50 g portion (Canada);100;143;;10
+1570;50 g portion (Glucodin glucose tablets, Boots;102;146;;10
+1571;25 g portion (Bio-Health, Canada)8;103;147;;10
+1572;50 g portion (dextrose);111;158;;10
+1573;100 g portion (Bio-Health, Canada)15;114;163;;10
+1574;25 g glucose (Glucodex) 40 min before;76;109;;10
+1575;46 g Glucose + 15 g apple and orange fiber extract;79;113;;10
+1576;50 g Glucose + 14.5 g guar gum;62;88;;10
+1577;50 g Glucose + 14.5 g oat gum (78% oat ß-glucan);57;82;;10
+1578;100 g Glucose + 20 g acacia gum15, 28;85;121;;10
+1579;75 g Glucose + 4.24 g salt (Nigeria)11, 14;86;123;;10
+1580;Golden Syrup (Australia);63;90;;25
+1581;Yellow box (46% fructose) (Australia)8;35;50;;25
+1582;Stringy Bark (52% fructose) (Australia)8;44;63;;25
+1583;Red Gum (35% fructose) (Australia)8;46;66;;25
+1584;Iron Bark (34% fructose) (Australia)8;48;69;;25
+1585;Capilano Premium Honey, blend of eucalypt & floral;51;74;;25
+1586;Yapunya (42 % fructose) (Australia)8;52;74;;25
+1587;Pure (Capilano Honey Ltd., Richlands, Qld, Australia);58;83;;25
+1588;Leabrook Farms Yellow box honey;60;86;;25
+1589;Commercial Blend (38% fructose) (WA blend;62;89;;25
+1590;Salvation Jane (32% fructose) (Australia)8;64;91;;25
+1591;Clover honey, ratio of fructose: glucose, 1.09;69;99;;25
+1592;Commercial Blend (28% fructose) (NSW blend;72;103;;25
+1593;Buckwheat honey, ratio of fructose:glucose, 1.12;73;105;;25
+1594;Cotton honey, ratio of fructose:glucose, 1.03;74;105;;25
+1595;Honey, NS type (China);74;105;;25
+1596;Tupelo honey, ratio of fructose:glucose, 1.54;74;106;;25
+1597;Honey, NS (Canada)8;87;124;;25
+1598;50 g portion (China);46;66;;10
+1599;25 g portion (BDH, Poole, UK)8;48;68;;10
+1600;50 g portion (Canada);105;150;;10
+1601;50 g portion (China);105;150;;10
+1602;Maple flavored syrup (Cottee's Foods, Australia);68;97;;25
+1603;Maple syrup, pure Canadian (Queen Foods, Australia);54;77;;25
+1604;50 g portion (Redpath Sugars, Toronto, Canada);58;83;;10
+1605;50 g portion (Japan);60;86;;10
+1606;25 g portion (Redpath Sugars, Canada)8;60;86;;10
+1607;50 g portion (South Africa);65;93;;10
+1608;100 g portion (Redpath Sugars, Canada)15;65;94;;10
+1609;50 g portion (China);84;120;;10
+1610;Broad beans, frozen, reheated in microwave;63;90;;80
+1611;Pea, frozen, boiled (Canada)8;51;73;;80
+1612;Pea, green (Pisum Sativum) (India)14;54;77;;80
+1613;Butternut pumpkin, boiled (Australia)8;51;73;;80
+1614;Pumpkin (Cucurbita moschata), peeled, cubed;66;94;;80
+1615;Pumpkin, boiled in salted water (South Africa);75;107;;80
+1616;Sweet corn, 'Honey & Pearl' variety (New Zealand);37;53;;80
+1617;Sweet corn on the cob, boiled 20 min;48;69;;80
+1618;Sweet corn (China);55;79;;80
+1619;Sweet corn, boiled (USA);60;86;;80
+1620;Sweet corn (South Africa);62;89;;80
+1621;Carrots, raw, diced (Australia);35;50;;80
+1622;Carrots, raw, ground (Australia);39;56;;80
+1623;Carrots, peeled, boiled (Sydney, NSW, Australia)8;33;47;;80
+1624;Carrots, peeled, diced boiled (Sydney, NSW, Australia)8;49;70;;80
+1625;Cassava (Manihot esculenta), peeled, boiled 30 min;94;133;;120
+1626;Parsnips, peeled, boiled (Australia)8;52;74;;80
+1627;Potato, white with skin, baked (UK);69;99;;150
+1628;Irish potato (Solanum tuberosum), peeled;83;119;;150
+1629;Pontiac, peeled and baked (Australia);93;133;;150
+1630;Potato, white without skin, baked (UK);98;140;;150
+1631;Russet, baked without fat (USA);111;158;;150
+1632;Asterix, peeled, boiled 30 min (Sweden);78;111;;150
+1633;Asterix, peeled, boiled 30 min, served with 15.4 g;92;131;;150
+1634;Charlotte, peeled, quartered, boiled 15 min (UK);66;94;;150
+1635;Charlotte, boiled (UK);81;116;;150
+1636;Desiree, peeled, boiled 35 min (Australia);101;144;;150
+1637;Estima, peeled, quartered, boiled 15 min (UK);66;94;;150
+1638;Irish potato (Solanum tuberosum), peeled, cubed;59;84;;150
+1639;King Edward potato, peeled, quartered;75;107;;150
+1640;Marfona potato, peeled, quartered, boiled 15 min;56;80;;150
+1641;Maris Piper potato, peeled, quartered, boiled 15 min;85;122;;150
+1642;Nicola potato, peeled, quartered, boiled 15 min (UK);59;84;;150
+1643;Nicola potato, unpeeled, boiled whole for 15 min;58;83;;150
+1644;Pontiac, peeled, boiled whole for 30 min (Australia);56;80;;150
+1645;Pontiac, peeled, boiled 35 min (Australia);88;125;;150
+1646;Sava, peeled, boiled 21-30 min (Sweden);118;168;;150
+1647;Sebago, peeled, boiled 35 min (Australia);87;124;;150
+1648;Type NS, boiled (China);66;95;;150
+1649;Type NS, boiled in salted water (India);76;108;;150
+1650;Red potatoes, boiled with skin on in salted water;89;126;;150
+1651;Potato, white, boiled (UK);96;137;;150
+1652;Sava, peeled, boiled 21-30 min, refrigerated 24 h;88;125;;150
+1653;Sava, peeled, boiled 21-30 min, refrigerated 24 h;67;96;;150
+1654;Type NS, boiled in salted water, refrigerated;23;33;;150
+1655;Potato, red, cubed, boiled in salted water 12 min;56;79;;150
+1656;New, canned, heated in microwave 3 min (Mint Tiny;65;93;;150
+1657;French fries (Ica Handlarna, Solna, Sweden);54;77;;150
+1658;French Fries, baked 15 min (OreIda Golden Fries;64;90;;150
+1659;Irish potato (Solanum tuberosum), peeled, fried in;70;100;;150
+1660;Instant (Idahoan Foods, Lewisville, ID, USA);79;113;;150
+1661;Instant (Canada);80;114;;150
+1662;Instant (Edgell's Potato Whip, Edgell's, Australia);86;123;;150
+1663;Instant (Idahoan Foods, Lewisville, ID, USA);88;124;;150
+1664;Instant (Idahoan Foods, Lewisville, ID, USA);92;131;;150
+1665;Instant (Idahoan Foods, Lewisville, ID, USA);97;139;;150
+1666;Mashed potato, instant (Farmland, Australia);71;102;;150
+1667;Mashed potato, instant (Farmland, Australia);74;106;;150
+1668;Mashed potato, instant (Farmland, Australia);68;97;;150
+1669;Type NS (South Africa);71;101;;150
+1670;Type NS (China);73;104;;150
+1671;Type NS (France);83;118;;150
+1672;Desiree potato, mashed (UK);102;146;;150
+1673;Pontiac, peeled, cubed, boiled 15 min, mashed;91;130;;150
+1674;Estima, microwaved 6 min then baked 10 min (UK);93;133;;150
+1675;Pontiac, peeled and microwave on high;79;112;;150
+1676;Prince Edward Island white potato, cooked in;73;103;;150
+1677;Russet Burbank potato, unpeeled, cooked in;77;108;;150
+1678;New (Canada);70;100;;150
+1679;New, unpeeled and boiled 20 min (Australia);78;112;;150
+1680;New potato, boiled (UK);80;114;;150
+1681;Potato, NS type, steamed (China);62;89;;150
+1682;Potato (Solanum Tuberosum), peeled, steamed 1 h;65;93;;150
+1683;California white potatoes, cubed;72;102;;150
+1684;Sweet potato (Ipomoea batatas), boiled (Australia);44;63;;150
+1685;Sweet potato (Ipomoea batatas), peeled, cubed;46;66;;150
+1686;Sweet potato, orange flesh, peeled, cut into pieces;61;87;;150
+1687;Sweet potato, kumara (New Zealand);77;110;;150
+1688;Sweet potato (Ipomoea batatas), peeled;94;134;;150
+1689;Sweet potato (Ipomoea batatas), peeled;76;109;;150
+1690;Sweet potato (Ipomoea batatas), peeled, roasted;82;117;;150
+1691;Sweet potato, orange (China);77;110;;150
+1692;Sweet potato, purple skin white flesh, peeled;75;107;;150
+1693;Tapioca (Manihot Utilissima), steamed 1 h (India)14;70;100;;250
+1694;Taro (China);48;68;;150
+1695;Taro (Colocasia esculenta) peeled, boiled (Australia);54;77;;150
+1696;Taro, peeled, boiled (New Zealand);56;80;;150
+1697;Yam, peeled, boiled (New Zealand);35;50;;150
+1698;Yam (China);54;77;;150
+1699;Yam, steamed (China);51;73;;150
+1700;Yam (Dioscorea spp.), boiled (Nigeria)11, 14;74;106;;150
+1701;Yam (Dioscorea spp.), boiled, consumed with;74;106;;150
+1702;Coco yam (Xanthosoma spp.), peeled, cubed;61;87;;150
+1703;Lucea Yam, peeled, cubed, boiled 30 (Jamaica);74;106;;150
+1704;Lucea Yam, peeled, roasted on preheated charcoal;77;110;;150
+1705;Negro yam, peeled, cubed, boiled 30 min (Jamaica);73;105;;150
+1706;Negro yam, peeled, roasted on preheated charcoal;73;104;;150
+1707;Round leaf yellow yam, peeled, cubed, boiled 30 min;68;97;;150
+1708;Round leaf yellow yam, peeled, roasted on preheated;80;114;;150
+1709;Sweet yam, peeled, cubed, boiled 30 min (Jamaica);79;113;;150
+1710;Sweet yam, peeled, roasted on preheated charcoal;82;117;;150
+1711;White yam, peeled, cubed, boiled 30 min (Jamaica);75;107;;150
+1712;White yam, peeled, roasted on preheated charcoal;80;114;;150
+1715;Ga kenkey, prepared from fermented cornmeal (Zea mays);12;17;;150
+1716;Gari, roasted cassava dough (Manihot utilissima);56;80;;100
+1722;M'fino/Morogo, wild greens (South Africa);68;97;;120
+1725;White rice (Oryza sativa), boiled, eaten with fish;34;49;;150
+1726;Yam (Dyscoria species) eaten with fish, tomato;66;94;;150
+1728;Dates, Khalas (Rutab, soft early ripened) (90 g);37;53;;215
+1729;Dates, Khalas (Tamer, dark brown commercial) (60 g);29;41;;185
+1730;Hummus (chickpea salad dip);6;9;;30
+1731;Lebanese bread (white, unleaved), hummus;86;123;;120
+1732;Stuffed grapevine leaves (rice and lamb stuffing;30;43;;100
+1733;Broken rice, white, cooked in rice cooker;86;123;;150
+1734;Butter rice, warm white rice and butter (Japan);79;113;;150
+1735;Curry rice (Japan);67;96;;150
+1736;Curry rice with cheese (Japan);55;79;;150
+1737;Glutaminous rice flour, instant, served warm with;65;93;;100
+1738;Glutinous rice, white, cooked in rice cooker;94;140;;150
+1739;Glutinous rice, type NS (Esubi Shokuhin, Japan);86;123;;150
+1740;Glutinous rice ball with cut glutinous cake;48;69;;75
+1741;Glutinous rice cake with dried sea algae (Japan);83;119;;75
+1742;Jasmine rice, white, cooked in rice cooker;109;156;;150
+1743;Lotus root powder (China);33;47;;15
+1744;Low-protein white rice with dried sea algae (Japan);70;100;;150
+1745;Lychee, canned in syrup, drained;79;113;;120
+1746;Mung bean noodles, dried, boiled (China);39;56;;180
+1747;Non-glutaminous rice flour, served warm with drink;68;97;;100
+1748;Rice cracker, plain (Sakada, Japan);91;130;;30
+1749;Rice gruel with dried algae (Satou Co Ltd., Japan);81;116;;250
+1750;Rice noodles, dried, boiled (Thai World;61;87;;180
+1751;Rice noodles, fresh, boiled (Sydney, NSW, Australia);40;57;;180
+1752;Roasted rice ball (Satou Co Ltd., Japan);77;110;;75
+1753;Salted rice ball (Satou Co Ltd., Japan);80;114;;75
+1754;Soba noodles, instant, reheated in hot water;46;66;;180
+1755;Sushi, salmon ('I Love Sushi', Sydney, Australia)8;48;69;;100
+1756;Sushi, roasted sea algae, vinegar and rice (Japan);55;79;;100
+1757;Udon noodles, fresh, reheated (Fantastic brand;62;89;;180
+1758;Udon noodles, instant, with sauce and fried;48;69;;180
+1759;White rice, dried sea algae and milk;57;81;;300
+1760;White rice, dried sea algae and milk;56;80;;300
+1761;White rice, dried sea algae and milk;55;79;;300
+1762;White rice with dried fish strip (okaka) (Japan);79;113;;150
+1763;White rice with fermented soybean (natto) (Japan);56;80;;150
+1764;White rice with instant miso soup;61;87;;150
+1765;White rice with low-fat milk (Japan);69;99;;300
+1766;White rice and non-sugar yoghurt (yoghurt eaten;59;84;;150
+1767;White rice and non-sugar yoghurt eaten;58;83;;150
+1768;White rice with pickled vinegar and cucumber;63;90;;150
+1769;White rice with pickled vinegar and cucumber;61;87;;150
+1770;White rice topped with raw egg and soy sauce (Japan);72;103;;150
+1771;White rice with roasted ground soybean (Japan);56;80;;150
+1772;White rice with salted dried plum (umeboshi) (Japan);80;114;;150
+1773;White rice with sea algae rolled in sheet of toasted;77;110;;150
+1775;Banana, (Musa sapientum), Nendra variety;70;100;;120
+1776;Barley (Hordeum vulgare);48;69;;150
+1777;Bengal gram dhal, chickpea;11;16;;150
+1778;Black gram, (Phaseolus mungo), soaked 12 h;43;61;;150
+1782;Chapatti, flour from malted wheat, moth bean;66;94;;60
+1783;Chapatti, flour made from popped wheat, moth bean;40;58;;60
+1784;Chapatti, flour from roller dried wheat, moth bean;60;85;;60
+1785;Chapatti, wheat flour, thin, with green gram;44;63;;200
+1786;Cheela, bengal gram (Cicer arietinum);42;60;;150
+1787;Cheela, bengal gram (Cicer arietinum);36;51;;150
+1788;Cheela, green gram (Phaseolus aureus);45;64;;150
+1789;Cheela, green gram (Phaseolus aureus);38;54;;150
+1790;Dosai (parboiled and raw rice, soaked, ground;55;79;;150
+1791;Green gram, (Phaseolus aureus), soaked 12 h;38;54;;150
+1792;Horse gram, (Dolichos biflorus) soaked 12 h;51;73;;150
+1793;Idli (parboiled and raw rice with black dhal, soaked;60;86;;250
+1794;Lentil and cauliflower curry with rice (Australia);60;86;;360
+1795;Millet/Ragi, (Eleucine coracana), dehusked;68;97;;150
+1796;Pongal (rice and roasted green gram dhal;45;64;;250
+1797;Poori (deep-fried wheat flour dough) with;57;81;;150
+1798;Porridge, made from scoured wheat, consumed with;39;55;;100
+1799;Porridge, made from decorticated finger millet, eaten;65;93;;100
+1800;Porridge, made from popped rice (aralu), consumed;76;109;;100
+1801;Porridge, made from expanded rice (puri), consumed;74;105;;100
+1802;Rajmah, Phaseolus vulgaris (India);19;27;;150
+1803;Tapioca (Manihot utilissima), steamed 1h14;70;100;;250
+1804;Upittu (roasted semolina and onions, cooked in water);69;99;;150
+1805;Acacia aneura (mulga seed) roasted;8;11;;50
+1806;Acacia coriacea, desert oat seed bread8;46;66;;75
+1807;Araucaria bidwillii (bunya tree nut), baked 10 min8;47;67;;50
+1808;Bush honey, sugar bag8;43;61;;30
+1809;Castanospermum austral (blackbean seed), sliced;8;11;;50
+1810;Dioscorea bulbifera (cheeky yam), peeled, sliced;34;49;;150
+1811;Macrozamia communis (cycad palm seed), sliced;40;57;;50
+1812;Breadfruit (Artocarpus altilis) (Australia)8;68;97;;120
+1813;Green banana, boiled (New Zealand);38;54;;120
+1814;Plantain (Musa AAB) (Fiji);68;97;;120
+1815;Roti/chappati (Fiji);59;85;;60
+1816;Sweet potato (Ipomoea batatas) (Australia);44;63;;150
+1817;Sweet potato, kumara (New Zealand);77;110;;150
+1818;Tannia (Xanthosoma sagittifolium) (Fiji);63;90;;150
+1819;Taro (Colocasia esculenta) peeled, boiled (Australia);54;77;;150
+1820;Taro, peeled, boiled (New Zealand);56;80;;150
+1821;Yam, peeled, boiled (New Zealand);35;50;;150
+1822;Acorns (Quercus emoryi), stewed with venison8;16;23;;100
+1823;Cactus jam (Stenocereus thurberi);91;130;;30
+1824;Corn hominy (Zea mays)8;40;57;;150
+1825;Fruit Leather (Stenocereus thurberi);70;100;;30
+1826;Lima beans broth (Phaseolus lunatus)8;36;51;;250
+1827;Tortilla (Zea mays and Olneya tesota);38;54;;60
+1828;White teparies broth (Phaseolus acutifolius )8;31;44;;250
+1829;Yellow teparies broth (Phaseolus acutifolius )8;29;41;;250
+1830;Arepa, corn bread cake, made with corn flour (Mexico)14;72;102;;100
+1831;Arepa, made from ordinary dehulled dent corn flour12, 31;81;116;;100
+1832;Arepa, made from dehulled high-amylose;44;63;;100
+1833;Arepa, made from white corn meal flour (Venezuela);54;77;;100
+1834;Arepa, made from white corn meal flour, supplemented;60;86;;100
+1835;Corn tortilla (Mexico);52;74;;50
+1836;Corn tortilla, served with refried mashed pinto beans;39;56;;100
+1837;Corn tortilla, fried, with mashed potato, fresh tomato;78;111;;100
+1838;Ground beef served with rice and an orange (Chile);31;45;;300
+1839;Lentil soup, pureed consumed with an orange (Chile);49;70;;300
+1840;Pinhao, Brazilian Parana Pine seeds (Araucaria;47;67;;50
+1841;Pinhao, without coat, cooked for 1h in 1L of water;43;62;;50
+1842;Pinto beans, boiled in salted water (Mexico);14;19;;150
+1843;Spaghetti served with beef tomato sauce;42;60;;300
+1844;Spaghetti served with pressure-cooked white beans;77;110;;300
+1845;Wheat tortilla (Mexico);30;43;;50
+1846;Wheat tortilla served with refried pinto beans and;28;40;;100
+1847;Breadfruit (Artocarpus altilis), peeled, boiled 26 min;60;83;;120
+1848;Cassava (Manihot esculenta), peeled, boiled 30 min;94;133;;120
+1849;Dasheen, peeled, boiled 30 min, refrigerated;77;109;;150
+1850;Dasheen, peeled, boiled 30 min, crushed, refrigerated;66;93;;150
+1851;Dasheen, peeled, boiled 30 min, uncrushed (whole);75;105;;150
+1852;Dasheen, peeled, cubed, boiled 30 min (Jamaica);72;103;;150
+1853;Eddoe (Colocasia esculenta var. antiquorum);61;86;;150
+1854;Green banana, peeled, boiled 10 min (Jamaica);37;53;;120
+1855;Green banana, peeled, fried in vegetable oil (Jamaica);35;50;;120
+1856;Green banana/plantain, boiled 23 min, frozen;65;92;;120
+1857;Green plantain (Musa paradisiaca), peeled;39;56;;120
+1858;Green plantain (Musa paradisiaca), peeled, fried;40;57;;120
+1859;Ripe plantain (Musa paradisiaca), peeled;66;94;;120
+1860;Ripe plantain (Musa paradisiaca), peeled, fried;90;129;;120
+1861;Irish potato (Solanum tuberosum), peeled;71;101;;150
+1862;Irish potato, peeled, boiled 30 min, crushed;66;94;;150
+1863;Irish potato, peeled, boiled 30 min, uncrushed (whole);66;93;;150
+1865;Tannia (Xanthosoma sagittifolium), peeled;60;84;;150
+1866;Tannia, peeled, boiled 30 min, crushed, refrigerated;52;74;;150
+1867;Tannia, peeled, boiled 30 min, uncrushed (whole);50;71;;150
+1868;Coco yam (Xanthosoma spp.), peeled, cubed;61;87;;150
+1869;Lucea yam (Dioscorea rotunda), peeled, cubed;74;106;;150
+1870;Lucea yam, peeled, roasted on preheated charcoal;77;110;;150
+1871;Negro yam (Dioscorea rotundata), peeled, cubed;73;105;;150
+1872;Negro yam, peeled, roasted on preheated charcoal;73;104;;150
+1873;Round leaf yellow yam (Dioscorea cayenensis);68;97;;150
+1874;Round leaf yellow yam, peeled, roasted on preheated;80;114;;150
+1875;Sweet yam (Dioscorea alata), peeled, cubed;79;113;;150
+1876;Sweet yam, peeled, roasted on preheated charcoal;82;117;;150
+1877;White yam (Dioscorea alata), peeled, boiled 30 min;62;88;;150
+1878;White yam, peeled, cubed, boiled 30 min (Jamaica);75;107;;150
+1879;White yam, peeled, roasted on preheated charcoal;80;114;;150

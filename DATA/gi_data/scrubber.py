@@ -21,9 +21,11 @@ def scrubMe(fname):
     scrubbedData_stage_4_name = 'ADA_GI_out_stage_4.txt'
     scrubbedData_stage_5_name = 'ADA_GI_out_stage_5.txt'
     scrubbedData_stage_6_name = 'ADA_GI_out_stage_6.txt'
-    sql_file_name = 'ADA_GI_sql_insertion.txt'
+    ada_gi_sql_file_name = 'ADA_GI_sql_insertion.txt'
+
     scrubbedData_serving_size = 'scrubbedData_serving_size.txt' # ID + Serving size
     groupData_name = 'ADA_GI_group_data.txt'
+    ada_food_group_file_name = 'ADA_food_groups.txt'
 
     extractUniqueIDs(scrubbedData_stage_0_name, scrubbedData_stage_1_name)
     extract_name_GI(scrubbedData_stage_1_name, scrubbedData_stage_2_name)
@@ -36,8 +38,17 @@ def scrubMe(fname):
         scrubbedData_stage_5_name, 
         scrubbedData_serving_size, 
         scrubbedData_stage_6_name)
-    convert_to_sql(scrubbedData_stage_6_name, sql_file_name)
+    convert_to_sql(scrubbedData_stage_6_name, ada_gi_sql_file_name)
     get_group_ranges(scrubbedData_stage_0_name, groupData_name)
+    convert_to_sql_GroupData("ADA_GI_group_data_final.txt", ada_food_group_file_name)
+
+def convert_to_sql_GroupData(in_file_name, out_file_name):
+    target_table_name = "GI_Data";
+    in_data = open(in_file_name, 'r')
+    out_data = open(out_file_name,'w')
+
+    in_data.close()
+    out_data.close()
 
 def convert_to_sql(in_file_name, out_file_name):
     target_table_name = "GI_Data";
