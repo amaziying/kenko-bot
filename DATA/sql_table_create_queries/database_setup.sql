@@ -29,6 +29,7 @@ CREATE TABLE frequency(
 DROP TABLE if EXISTS food_item CASCADE;
 CREATE TABLE `food_item` (
   `food_item_id` binary(16) NOT NULL,
+  `user_id` varchar(200) NOT NULL,
   `food_name` varchar(200) NOT NULL,
   `date_consumed` DATE NOT NULL,
   `log_id` binary(16) DEFAULT NULL,
@@ -44,5 +45,4 @@ CREATE TABLE `food_item` (
   `serving_size_ml` float DEFAULT NULL,
   PRIMARY KEY (`food_item_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
 
