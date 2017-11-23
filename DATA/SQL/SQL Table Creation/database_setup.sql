@@ -7,14 +7,22 @@ CREATE TABLE `users` (
   `weight` float NOT NULL,
   `height` float NOT NULL,
   `BMI` float NOT NULL,
+  `ss_lower_grain` INTEGER NOT NULL,
+  `ss_higher_grain` INTEGER NOT NULL,
+  `ss_lower_meatalt` INTEGER NOT NULL,
+  `ss_higher_meatalt` INTEGER NOT NULL,
+  `ss_lower_milkalt` INTEGER NOT NULL,
+  `ss_higher_milkalt` INTEGER NOT NULL,
+  `ss_lower_vf` INTEGER NOT NULL,
+  `ss_higher_vf` INTEGER NOT NULL,
   PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS food_logs;
 CREATE TABLE `food_logs` (
   `log_id` binary(16) NOT NULL,
-  `user_id` binary(16) DEFAULT NULL,
-  `log_time` date NOT NULL,
+  `user_id` binary(16) REFERENCES users(user_id),
+  `log_time` DATE NOT NULL,
   PRIMARY KEY (`log_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -28,11 +36,11 @@ CREATE TABLE frequency(
 
 DROP TABLE if EXISTS food_item CASCADE;
 CREATE TABLE `food_item` (
-  `food_item_id` binary(16) NOT NULL,
-  `user_id` varchar(200) NOT NULL,
+  `entry_id` binary(16) NOT NULL,
+  `user_id` varchar(200) REFERENCES users(user_id),
   `food_name` varchar(200) NOT NULL,
   `date_consumed` DATE NOT NULL,
-  `log_id` binary(16) DEFAULT NULL,
+  `log_id` binary(16) REFERENCES food_logs(log_id),
   `catgegory` varchar(200) NOT NULL,
   `cfg_vegfru_ss_fraction` decimal(10,0) DEFAULT 0,
   `cfg_grain_ss_fraction` decimal(10,0) DEFAULT 0,
@@ -43,6 +51,5 @@ CREATE TABLE `food_item` (
   `GI` int(11) NOT NULL,
   `serving_size_g` float DEFAULT NULL,
   `serving_size_ml` float DEFAULT NULL,
-  PRIMARY KEY (`food_item_id`)
+  PRIMARY KEY (`entry_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
