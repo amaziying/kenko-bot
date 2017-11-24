@@ -1,3 +1,28 @@
+DROP TABLE IF EXISTS GI_major_group_ranges;
+CREATE TABLE `GI_major_group_ranges` (
+  food_name VARCHAR(225),
+  food_start_idx INT,
+  food_end_idx INT
+);
+
+DROP TABLE IF EXISTS CNF_food_names;
+CREATE TABLE `CNF_food_names` (
+  `food_id` int(11) NOT NULL,
+  `food_code` int(11) DEFAULT NULL,
+  `food_group_id` int(11) DEFAULT NULL,
+  `food_description` varchar(100) NOT NULL,
+  `scientific_name` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`food_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS CNF_food_groups;
+CREATE TABLE `CNF_food_groups` (
+  `food_group_id` int(11) NOT NULL,
+  `food_group_code` int(11) NOT NULL,
+  `food_group_name` varchar(40) NOT NULL,
+  PRIMARY KEY (`food_group_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
 DROP TABLE IF EXISTS users;
 CREATE TABLE `users` (
   `user_id` binary(16) NOT NULL,
