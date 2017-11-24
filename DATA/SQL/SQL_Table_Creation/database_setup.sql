@@ -1,5 +1,6 @@
 DROP TABLE IF EXISTS GI_major_group_ranges;
 CREATE TABLE `GI_major_group_ranges` (
+  GI_group_id INT AUTO_INCREMENT PRIMARY KEY,
   food_name VARCHAR(225),
   food_start_idx INT,
   food_end_idx INT
