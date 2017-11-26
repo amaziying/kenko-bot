@@ -123,6 +123,25 @@ app.post('/webhook', function (req, res) {
   }
 });
 
+app.post('/vision', function (req, res) {
+  var image = req.body && req.body.image;
+  console.log('hit endpoint')
+  if (image) {
+    vision
+      .labelDetection(image)
+      .then(function(response) {
+        console.log(response);
+        res.json({labels: response});
+      })
+      .catch(function(err) {
+        res.sendStatus(500);
+        console.log('error', err);
+      });
+  } else {
+    res.sendStatus(400);
+  }
+});
+
 /*
  * This path is used for account linking. The account linking call-to-action
  * (sendAccountLinking) is pointed to this URL.
@@ -317,7 +336,7 @@ function receivedMessage(event) {
   } else if (messageAttachments) {
     if (messageAttachments.length && messageAttachments[0].type === 'image') {
         sendTypingOn(senderID);
-        vision.labelDetection(messageAttachments[0].payload.url)
+        vision.loadImageAndDetect(messageAttachments[0].payload.url)
             .then(function(res) {
                 sendTextMessage(senderID, "Thanks for sending in your food photo!")
                     .then(() => sendTextMessage(senderID, "We've logged for you the following items: " + res.map((e) => e.description).join(', ')))

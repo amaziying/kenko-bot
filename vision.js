@@ -28,7 +28,26 @@ function filterAnnotations(annotations) {
     return annotations.filter((annotation) => isFood(annotation.description));
 }
 
-function labelDetection(imageUri) {
+function labelDetection(data) {
+    var deferred = Q.defer();
+    if (cache[data]) {
+        deferred.resolve(cache[imageUri]);
+    } else {
+        vision
+            .labelDetection({ content: data })
+            .then(function (response) {
+                if (response && response.length) {
+                    cache[data] = filterAnnotations(response[0].labelAnnotations)
+                    deferred.resolve(cache[imageUri]);
+                } else {
+                    deferred.reject('Empty response');
+                }
+            });
+    }
+    return deferred.promise;
+}
+
+function loadImageAndDetect(imageUri) {
     var deferred = Q.defer();
 
     var image = {
@@ -63,5 +82,6 @@ function labelDetection(imageUri) {
 }
 
 module.exports = {
-    labelDetection: labelDetection
+    labelDetection: labelDetection,
+    loadImageAndDetect: loadImageAndDetect
 };
