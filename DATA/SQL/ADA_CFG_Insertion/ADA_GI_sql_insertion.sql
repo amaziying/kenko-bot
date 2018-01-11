@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS GI_Data;
-CREATE TABLE GI_Data(food_id VARCHAR(225), food_name VARCHAR(225), glucose_gi INT, bread_gi INT, serving_size_mL INT, serving_size_g INT);
+CREATE TABLE GI_Data(food_id VARCHAR(225), food_name VARCHAR(225), glucose_gi INT, bread_gi INT, serving_size_mL INT, serving_size_g INT, GI_group_id VARCHAR(225));
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1", "Banana cake, made with sugar", 47, 67, NULL, 60);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("2", "Banana cake, made without sugar", 55, 79, NULL, 60);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("3", "Carrot cake, prepared with coconut flour (Philippines)", 36, 52, NULL, 60);
