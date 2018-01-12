@@ -79,3 +79,23 @@ CREATE TABLE `food_item` (
   `serving_size_ml` float DEFAULT NULL,
   PRIMARY KEY (`entry_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS GI_Data;
+CREATE TABLE GI_Data(
+  food_id VARCHAR(225), 
+  food_name VARCHAR(225), 
+  glucose_gi INT, 
+  bread_gi INT, 
+  serving_size_mL INT, 
+  serving_size_g INT, 
+  GI_group_id VARCHAR(225) REFERENCES GI_major_group_ranges(GI_group_id),
+  PRIMARY KEY (`food_id`)
+);
+
+-- Run these after ADA_GI_sql_insertion.sql
+-- /////////////////////////////////////////////
+-- This will add the major group ranges to the GI data
+UPDATE GI_Data gd, GI_major_group_ranges gr
+SET gd.`GI_group_id` = gr.`GI_group_id`
+WHERE gd.`food_id` <= gr.`food_end_idx` AND gd.`food_id` >= gr.`food_start_idx`;
+-- /////////////////////////////////////////////
