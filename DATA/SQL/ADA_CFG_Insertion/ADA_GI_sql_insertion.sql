@@ -7,7 +7,7 @@ INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, 
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("7", "Pound cake 0% (Bimbo S.A de C.V, Mexico)", 38, 54, NULL, 60);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("8", "Raspberry Coffee cake, President's Choice, Blue Menu", 50, 71, NULL, 60);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("9", "Vanilla cake, made from packet mix with vanilla frosting (Betty Crocker, USA)", 42, 60, NULL, 111);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("10", "Apple Berry crumble, President's Choice Blue Menu™ (Loblaw Brands Limited, Canada)", 41, 59, NULL, 165);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("10", "Apple Berry crumble, President's Choice Blue Menu (Loblaw Brands Limited, Canada)", 41, 59, NULL, 165);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("11", "Bavarian (mousse filling on biscuit base), Chocolate honeycomb, light (Sara Lee Bakery, Australia)", 31, 44, NULL, 75);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("12", "Danish, Apple & Peach, light (Sara Lee Bakery Australia)", 50, 72, NULL, 50);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("13", "Doughnut, wheat dough, deep-fried (China)", 75, 107, NULL, 50);
@@ -18,15 +18,15 @@ INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, 
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("18", "Apricot, coconut and honey muffin (Australia)", 60, 86, NULL, 50);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("19", "Banana, oat and honey muffin (Australia)", 65, 93, NULL, 50);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("20", "Blueberry muffin (Sara Lee Bakery, Australia)", 50, 72, NULL, 60);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("21", "Blueberry (Wild) 10-Grain muffin, President's Choice Blue Menu™ (Loblaw Brands Limited, Canada)", 57, 81, NULL, 70);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("21", "Blueberry (Wild) 10-Grain muffin, President's Choice Blue Menu (Loblaw Brands Limited, Canada)", 57, 81, NULL, 70);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("22", "Chocolate butterscotch muffin (Australia)", 53, 75, NULL, 50);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("23", "Chocolate chip muffin (Sara Lee Bakery, Australia)", 52, 74, NULL, 60);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("24", "Cranberry & Orange Soy muffin, President's Choice Blue Menu™ (Loblaw Brands Limited, Canada)", 48, 69, NULL, 70);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("24", "Cranberry & Orange Soy muffin, President's Choice Blue Menu (Loblaw Brands Limited, Canada)", 48, 69, NULL, 70);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("25", "Double chocolate muffin (Sara Lee Bakery, Australia)", 46, 66, NULL, 60);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("26", "Muffin, plain, made from wheat flour (Spain)", 46, 66, NULL, 50);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("27", "Muffin, reduced-fat, low-calorie, made from high-amylose corn starch and maltitol (Spain)", 37, 53, NULL, 50);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("28", "Raisin Bran Flax muffin, President's Choice Blue Menu™ (Loblaw Brands Limited, Canada)", 52, 74, NULL, 70);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("29", "Raspberry Pomegranate muffin, President's Choice Blue Menu™ (Loblaw Brands Limited, Canada)", 58, 82, NULL, 70);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("28", "Raisin Bran Flax muffin, President's Choice Blue Menu (Loblaw Brands Limited, Canada)", 52, 74, NULL, 70);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("29", "Raspberry Pomegranate muffin, President's Choice Blue Menu (Loblaw Brands Limited, Canada)", 58, 82, NULL, 70);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("30", "Pancakes, homemade (Fiji)", 66, 95, NULL, 80);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("31", "Pancakes, prepared from shake mix (Green's General Foods, Glendenning, Australia)", 67, 96, NULL, 80);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("32", "Pancakes, prepared from wheat flour (China)", 80, 114, NULL, 80);
@@ -776,8 +776,8 @@ INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, 
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("795", "Milk, reduced fat (1.4%) (Lite White Dairy Farmers Ltd, Australia)", 30, 43, 250, NULL);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("796", "Milk, semi-skimmed, British (Dairycrest, UK)", 25, 36, 250, NULL);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("797", "Milk, semi-skimmed, pasteurised, organic (Arla, UK)", 34, 49, 250, NULL);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("798", "Milk, reduced fat with added omega 3 (Take Care™, Dairy Farmers Ltd, Australia)", 23, 33, 250, NULL);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("799", "Milk, reduced fat (98% fat free) with added omega 3 (Farmers Best™, Dairy Farmers Ltd, Australia)", 27, 39, 250, NULL);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("798", "Milk, reduced fat with added omega 3 (Take Care, Dairy Farmers Ltd, Australia)", 23, 33, 250, NULL);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("799", "Milk, reduced fat (98% fat free) with added omega 3 (Farmers Best, Dairy Farmers Ltd, Australia)", 27, 39, 250, NULL);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("800", "Big M flavored milk, chocolate or strawberry (National Foods Ltd, Australia)", 37, 53, 250, NULL);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("801", "Masters Light, 99% fat free chocolate or mocha milk (National Foods Ltd, Australia)", 27, 39, 250, NULL);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("802", "Masters, reduced fat, chocolate or strawberry milk (National Foods Ltd, Australia)", 35, 50, 250, NULL);
@@ -1003,7 +1003,7 @@ INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, 
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1022", "Rockmelon/Cantaloupe, raw (Australia)", 70, 100, NULL, 120);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1023", "Strawberries, fresh, raw (Australia)", 40, 57, NULL, 120);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1024", "Strawberry jam (Australia)", 51, 73, NULL, 30);
-INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1025", "President's Choice® Blue Menu™ Twice the Fruit Spread - Strawberry & Rhubarb (Loblaw Brands Limited, Canada)", 69, 99, NULL, 30);
+INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1025", "President's Choice Blue Menu Twice the Fruit Spread - Strawberry & Rhubarb (Loblaw Brands Limited, Canada)", 69, 99, NULL, 30);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1026", "Strawberry fruit leather (Stretch Island Fruit Company, Washington, USA)", 29, 42, NULL, 30);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1027", "Strawberry & wildberry dried fruit leather, Sunripe School Straps (Windsor Farm Foods, Australia)", 40, 57, NULL, 30);
 INSERT INTO GI_Data (food_id, food_name, glucose_gi, bread_gi, serving_size_mL, serving_size_g) VALUES ("1028", "Strawberry processed fruit bars, Real Fruit Bars (Uncle Toby's, Australia)", 90, 129, NULL, 30);
