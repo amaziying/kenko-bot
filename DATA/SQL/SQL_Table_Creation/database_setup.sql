@@ -88,6 +88,7 @@ CREATE TABLE GI_Data(
   bread_gi INT, 
   serving_size_mL INT, 
   serving_size_g INT, 
+  country_id VARCHAR(225),
   GI_group_id VARCHAR(225) REFERENCES GI_major_group_ranges(GI_group_id),
   PRIMARY KEY (`food_id`)
 );
