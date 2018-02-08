@@ -93,6 +93,14 @@ CREATE TABLE GI_Data(
   PRIMARY KEY (`food_id`)
 );
 
+DROP TABLE IF EXISTS Preferences;
+CREATE TABLE GI_Data(
+  `user_id` varchar(200) REFERENCES users(user_id),
+  food_name VARCHAR(225),
+  chosen_times INT,
+  rejected_times INT
+);
+
 -- Run these after ADA_GI_sql_insertion.sql
 -- /////////////////////////////////////////////
 -- This will add the major group ranges to the GI data
